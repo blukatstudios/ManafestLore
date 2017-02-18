@@ -1,0 +1,93 @@
+The arcane arts is a rough description of the process by which a 
+mortal soul sequesters energy from ambient mana particles, 
+charges their own casting mana particles, then releases a spell.
+
+****************
+Soul anatomy
+****************
+To break this down, let's analyze the soul's arcane components.
+Mana reserves- Where the soul stores mana charge, effects total 
+mana available for magic use at any one time.
+
+Mana gills- The portions of the soul that drain the charge from
+nearby mana particles.
+
+Caster- The innert portions of the soul that can momentarily fill
+with mana whilst causing relatively little physical reaction.
+
+Spell matrix- The formation of mana particles that, exposed to a 
+burst of energy, produce a desired spell.
+
+
+****************
+Types of spells
+****************
+
+Spells can generally be broken down between those that effect mana
+and those that effect matter. Each successive tier requires more 
+raw power as well as more intricate patterns and precise positioning
+of the spell matrix in order to cast effectively. As a result, it's
+far more likely a magician can create flames from their hands than
+form and throw fireballs(using force), or heal the damage done by
+either.
+
+Tier|Matter      |Mana magic
+____|____________|__________
+1   |Energy      | Mana 
+2   |Force       | Mind
+3   |Flesh       | Soul
+
+
+****************
+Energy
+****************
+This magic consists of transfering between mana and electro-magnetic
+energy. The most common forms of energy produced are heat and light,
+though strong radiation is also possible. One can also convert
+energy into mana, charging spells by sunlight, fire, or occasionally
+lightning. A skilled magician can pull the heat from a glass of water
+, freezing it, or dissipate an incoming lightning bolt or fireball.
+
+A common use for an unskilled energy magice is heating water or
+starting fires.
+
+****************
+Force
+****************
+This magic involves conversions between mana and force. By creating
+forces proportional or greater than gravity, mages can become 
+weightless or levitate. By creating force fields and force walls, 
+mages can also deflect projectiles and other physical attacks. 
+Skilled mages can condense the water in air, sculpt soft materials
+with incredible precision, animate objects like puppets, or
+launch small items as projectiles.
+
+By combining Energy and Force magic, one can create and launch
+both fireballs and ice shards. Cooking can be done largely by
+the virtues of indirectly touching and simultaneously heating
+food.
+
+****************
+Flesh
+****************
+Manipulating organs, tissues, and occasionally individual cells of
+an organism requires the finest control of Force and Energy. A minor
+mistake with either can easily be fatal.
+
+Masterful Flesh mages can seal or create openings in the skin 
+and prevent blood loss by temporary holding the flow of open veins.
+Such mages are often used for body modifications such as piercings,
+but more often to perform bleed-less surgeries and to seal injuries.
+Despite the ability to restore wounds to a non-bleeding state, pain
+is not suppressed in any way.
+
+****************
+mana
+****************
+This magic consists of controlling the flow of energy from one manum
+to another. Aptitude with this magic often shows passively through
+increased power or precision behind other spells, or simply greater
+rate or capacity of mana energy storage. A skilled mage can
+temporarily extend their maximum mana reserve or even build a greater
+charge before casting a spell, resulting in a more powerful version
+of another spell. 

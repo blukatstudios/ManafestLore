@@ -1,0 +1,103 @@
+***********************
+Arcane Material Science
+***********************
+
+The study of arcane materials has led to a wide range of
+advancements not possible with mundane materials alone. What 
+separates mundane and arcane materials is the manner in which the
+mana particles adhere to physical substance.
+
+****************
+Known materials
+****************
+
+  Soul Sand
+crystals with mana particles suspended inside them. Most soul sand
+has inert mana in it, meaning it only distorts the path of mana 
+energy that passes through it. Some grains of soul sand, however, 
+will display magical behavior when exposed to mana energy. Though
+soul sand is often found in fine grains, some naturally-occuring
+sources of soul sand are as large as an acorn. Many of these larger
+crystals act as a lens, focusing a source of mana energy into a 
+small area, and very rarely this results in naturally-occuring spell
+crystals that produce a magical spell when connected with a power 
+source.
+
+  Soul silver
+A form of silver that conducts mana energy. This material is most 
+often used as wiring for auto-casting devices and mana computers. 
+Soul silver, however, will disperse the mana energy projected from
+a magician using ranged magic. This means that spells such as 
+telepathy, telekinesis, and mana drain can be hindered or prevented
+by soul silver armor or walls containing soul silver dust.
+
+  Soul Stone
+A grey rock that mana cannot pass through. This is an ideal material
+for weapons made to combat spirits, as one can cut and penetrate
+souls using soul stone blades and projectiles. A darker use is the
+construction of soul stone containers to store souls in. Provided a
+hairline soul silver wire, the souls trapped inside can be be used
+to temporarily store mana energy. Provided the container is 
+tightly sealed, a soul fresh from a body can be stored without
+significant deterioration.
+
+****************
+Devices
+****************
+
+  Mana Cell
+A soul trapped in a cage of soul stone with at least one soul silver
+line by which mana can be pumped in or drained out of the vessel.
+
+  Mana Crystal display
+An array of spell crystals connecting to insulated 
+
+  Circuit computers
+By constructing complex circuits from soul silver, a computer can
+perform the same calculation reliably each and every time, provided
+it has been painstakenly programmed and debugged to perform said
+calculation. Circuit-based computers are most often used to
+perform calculations that would be difficult to do precisely by hand. 
+
+  Black Box Computers
+A compliant soul can be trained to perform tasks, generally
+by associating inputs with outputs. Said computers can be cheaply
+and quickly produced due to their simplicity, but are completely
+dependent upon the competency of the soul trapped inside.
+
+  Communicators
+This device consists of a spell crystal to send telepathic signals
+and a spell crystal to receive them. Communicators often use patterns
+of pulses that map to letters and numbers to communicate, though some
+communicators connected directly to computers send streams of 
+high-frequency pulses. A computer is needed to encode and decode
+these signals into binary data, and then into human-readable 
+datatypes.
+
+  Collectors
+A collector consits of a large tank filled with souls and two soul
+silver lines. One line is wired to a large mana-draining spell crystal
+whilst the other outputs mana energy to power mana devices. A collector
+is a useful way to power utility devices in densly populated locations
+such as cities, farms, and volcanic areas.
+
+  Caster Rings
+A mage that can control their flow of mana energy can use a caster
+ring. They simply charge up a burst of mana energy as they would
+to cast any spell. Instead of manually casting the spell, however,
+they send the mana through the ring and let the crystal inside direct
+the energy in a particular structure.
+
+  Auto-Caster Rifles/staves/Blasters
+Non-magicians use Auto-casters to combat mages. The simplest of such 
+devices consists of mana cells(trapped souls), wired through a 
+trigger to a spell crystal. More complex designs involve multiple
+spell crystals and quick-release mana cells that can supply short
+bursts of mana energy for spells such as light beams.
+
+  Phylactery Suit
+Some wishing to remain in the overworld long after physical death
+do so by willingly trapping their healthy souls in specially designed
+mana cell. Such a cell connects to an additional power source as 
+well as actuators for the suit. The user can move the body at will
+by directing mana energy to them.

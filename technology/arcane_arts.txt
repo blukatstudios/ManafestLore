@@ -116,5 +116,5 @@ either to change their character, divide one into multiple, or
 join multiple souls to become one. Expert soul magicians can bind
 souls to physical structures, allowing for them to 'enchant' objects.
 This can be used to preserve souls long after their bodies have
-perished, or to 
+perished, or to simply provide non-magic users with magic use.
 

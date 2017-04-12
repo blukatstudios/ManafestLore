@@ -42,7 +42,7 @@ tightly sealed, a soul fresh from a body can be stored without
 significant deterioration.
 
 ****************
-Devices
+Components
 ****************
 
   Mana Cell
@@ -52,27 +52,12 @@ line by which mana can be pumped in or drained out of the vessel.
   Mana Crystal display
 An array of spell crystals connecting to insulated 
 
-  Circuit computers
+  Mana Circuit computers
 By constructing complex circuits from soul silver, a computer can
 perform the same calculation reliably each and every time, provided
 it has been painstakenly programmed and debugged to perform said
 calculation. Circuit-based computers are most often used to
-perform calculations that would be difficult to do precisely by hand. 
-
-  Black Box Computers
-A compliant soul can be trained to perform tasks, generally
-by associating inputs with outputs. Said computers can be cheaply
-and quickly produced due to their simplicity, but are completely
-dependent upon the competency of the soul trapped inside.
-
-  Communicators
-This device consists of a spell crystal to send telepathic signals
-and a spell crystal to receive them. Communicators often use patterns
-of pulses that map to letters and numbers to communicate, though some
-communicators connected directly to computers send streams of 
-high-frequency pulses. A computer is needed to encode and decode
-these signals into binary data, and then into human-readable 
-datatypes.
+perform calculations that would be difficult to do precisely by hand.
 
   Collectors
 A collector consits of a large tank filled with souls and two soul
@@ -80,6 +65,14 @@ silver lines. One line is wired to a large mana-draining spell crystal
 whilst the other outputs mana energy to power mana devices. A collector
 is a useful way to power utility devices in densly populated locations
 such as cities, farms, and volcanic areas.
+
+  Repulsors
+Repulsors create and crudely direct a field of gravitational force. This can 
+both push and pull effected objects.
+
+****************
+Weaponry
+****************
 
   Caster Rings
 A mage that can control their flow of mana energy can use a caster
@@ -95,9 +88,54 @@ trigger to a spell crystal. More complex designs involve multiple
 spell crystals and quick-release mana cells that can supply short
 bursts of mana energy for spells such as light beams.
 
+  Force shield
+A spell crystal designed to create and shape a gravitational force field into
+a shield. Simpler force shields are shaped like dinner plates, whilst more
+advanced force shield use black box computers to encase the wearer in an aura
+of shilding. Force fields are meant to push projectiles off course, rather than
+to stop them completely. For this reason, direct hits from high-powered projectile
+weapons are more likely to penetrate rather than deflect. 
+
+****************
+Technomancy
+****************
+
+  Black Box Computers
+A compliant soul can be trained to perform tasks, generally
+by associating inputs with outputs. Said computers can be cheaply
+and quickly produced due to their simplicity, but are completely
+dependent upon the competency of the soul trapped inside.
+
   Phylactery Suit
 Some wishing to remain in the overworld long after physical death
 do so by willingly trapping their healthy souls in specially designed
 mana cell. Such a cell connects to an additional power source as 
 well as actuators for the suit. The user can move the body at will
 by directing mana energy to them.
+
+****************
+Construction
+****************
+
+  Integrity field generator
+Architects can build massive structures out of cheap material by strategically
+placing integrity fields within. These fields dampen or neutralize gravity, 
+reducing stress on lower sections of a structure. 
+
+****************
+Communication
+****************
+
+  Communicators
+This device consists of a spell crystal to send telepathic signals
+and a spell crystal to receive them. Communicators often use patterns
+of pulses that map to letters and numbers to communicate, though some
+communicators connected directly to computers send streams of 
+high-frequency pulses. A computer is needed to encode and decode
+these signals into binary data, and then into human-readable 
+datatypes.
+
+  telnet
+Joining black box computers together using communicators allows freeflow of 
+information between arbitrary nodes on the network. Such a network.
+

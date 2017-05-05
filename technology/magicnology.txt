@@ -70,6 +70,13 @@ such as cities, farms, and volcanic areas.
 Repulsors create and crudely direct a field of gravitational force. This can 
 both push and pull effected objects.
 
+  Memory tape
+A black box computer can be programmed to read and write bumps from the
+surface of a length of fiber embedded with soul metal. This tape
+hosts a secondary storage of information that can outlive an
+indiviudal computer and be simultaneously accessed by mutliple 
+black boxes simultaneously. 
+
 ****************
 Weaponry
 ****************
@@ -123,7 +130,7 @@ placing integrity fields within. These fields dampen or neutralize gravity,
 reducing stress on lower sections of a structure. 
 
 ****************
-Communication
+Communication/Information
 ****************
 
   Communicators
@@ -135,7 +142,13 @@ high-frequency pulses. A computer is needed to encode and decode
 these signals into binary data, and then into human-readable 
 datatypes.
 
-  telnet
+  The net
 Joining black box computers together using communicators allows freeflow of 
-information between arbitrary nodes on the network. Such a network.
+information between arbitrary nodes on the network. Such a network enables the
+persistence of content despite failure of individual servers. In addition to
+hosting static content such as images, documents, and audio, interactive 
+net worlds feature multiplayer interactive simulations. 
 
+  Database manager
+With training a black box computer can be used to manage the contents
+of a database.

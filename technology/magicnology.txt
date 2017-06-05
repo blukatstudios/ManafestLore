@@ -88,7 +88,7 @@ to cast any spell. Instead of manually casting the spell, however,
 they send the mana through the ring and let the crystal inside direct
 the energy in a particular structure.
 
-  Auto-Caster Rifles/staves/Blasters
+  Auto-Caster Rifles/stalves/Blasters
 Non-magicians use Auto-casters to combat mages. The simplest of such 
 devices consists of mana cells(trapped souls), wired through a 
 trigger to a spell crystal. More complex designs involve multiple
@@ -130,17 +130,15 @@ placing integrity fields within. These fields dampen or neutralize gravity,
 reducing stress on lower sections of a structure. 
 
 ****************
-Communication/Information
+Communication/Information Systems
 ****************
 
   Communicators
 This device consists of a spell crystal to send telepathic signals
 and a spell crystal to receive them. Communicators often use patterns
-of pulses that map to letters and numbers to communicate, though some
-communicators connected directly to computers send streams of 
-high-frequency pulses. A computer is needed to encode and decode
-these signals into binary data, and then into human-readable 
-datatypes.
+of pulses that map to letters and numbers used to communicate from intelligence
+to intelligence, though some communicators connected directly to circuit boards
+that encode and decode messages into human-readable messages.
 
   The net
 Joining black box computers together using communicators allows freeflow of 
@@ -149,6 +147,25 @@ persistence of content despite failure of individual servers. In addition to
 hosting static content such as images, documents, and audio, interactive 
 net worlds feature multiplayer interactive simulations. 
 
+  Memory tape
+Spools of this black tape store magnetic charges, allowing for the storage of
+bulk data more reliable than black box computers. 
+
+  Circuit boards
+Using either the flow of mana or electricity, logic can be embedded to produce
+certain outputs when given certain inputs. Two circuit boards with identical
+function can range dramatically in size depending upon the manufacturer. The
+main advantage of circuit boards is their output speed and reliability for
+mathematical calculations when compared to black box computers
+
   Database manager
-With training a black box computer can be used to manage the contents
+With training, a black box computer can be used to manage the contents
 of a database.
+
+  Light pane
+A matrix of tiny light-emitting spell crystals produces images of various colors
+when connected to circuit boards or black box computers. Memory tape can be used
+to store motion pictures for playback.
+
+  Sound chrystal
+Small containers with 

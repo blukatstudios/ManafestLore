@@ -1,0 +1,12 @@
+BD = Before Divines
+AD = After Divines
+1,000,000BD-Fire elementals enter Overworld
+100,000BD- Fire elementals stranded in Overworld
+80,000BD- Stone elementals enter Overworld
+20,000BD- Dragons and Fae enter Overworld
+0AD-Divines enter Overworld
+10AD-Major powers capitulate to divines
+50AD-Divine reformation reshapes major powers
+80AD-First divine war, Europa destroyed
+81AD-Second divine war, Caretakers vs remainers
+

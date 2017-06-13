@@ -1,0 +1,96 @@
+This file provides a list of life forms one could expect to encounter in the
+hifi universe.
+
+Humanoids
+
+  Human
+Jack of all trades standard intelligent life.
+
+  Gnome
+Tiny form of human created to function in an industrial setting. 
+
+  BeastMan
+Mixture of beast and man created to answer the indigenous people's
+desire to get closer to nature.
+
+  Divine
+Creatures of the divine realm. Often shapeshifters and endowed
+with godly magical powers. Can be killed, but not by old age
+or arrows.
+
+  Spirit
+A being made completely of mana. When they have a living host
+to feed off of, they are souls and confer magical abilities.
+
+  Alpha Demon
+Created as skilled soldiers of both mundane and arcane sources,
+arch demons are obsessed with warfare.
+
+  Beta Demon
+The so called 'demon scribes', beta demons were created to govern the
+alpha demons. They are tiny compare to their stronger brethren, but
+far more endowed with magical aptitude. In particular, the beta demons
+create contracts bound magically using souls.
+
+  Goblin
+Goblins were created as cheap fodder, and they excell at that task.
+They breed frequently and make up for their lack of quality with
+quantity. Due to their limited intelligence, they are easily tricked
+by whomever they are not actively attacking at the moment.
+
+  Orc
+The orcs were created as heavy infantry to support the goblins.
+They gain strength and intelligence, they are incapable of magic.
+
+  Ghoul
+A human taken by the ghoul fever, ghouls share a telepathic
+link with one another to form a hive mind. Powerful mages 
+can direct a ghoul horde through telepathic suggestions. Ghouls 
+close enough to a portal to the blood realm will act as pawns for
+the blood god. 
+
+  Stone Elemental
+Soul stone-based life forms that can use mana for their metabolic
+functions. They originate from the stone realm, which imploded
+long before humans arose on the overworld. Stone elements are 
+spirits subsisting off of their soul-stone vessels. Aside from
+completely pulverizing a stone elemental's body into gravel or
+attacking their soul directly, there is no way to kill one of
+these creatures if confronted. Stone elementals often use nearby
+plants, mosses, and lichens as sources of mana.
+
+  Fire Elemental
+Energy-based life forms that convert heat to mana. Fire elementals
+came to the overworld long before life emerged there, and were
+separated from their fire realm not long after. The only way
+to kill a fire elemental is to either cut them off from their
+source of energy(often fire), or directly scatter their soul.
+
+  Fae
+Originating from the ice realm when it was the forest realm, 
+the fae have evolved to be sustained entirely by of mana. As
+autotrophs, the fae flock to mana-rich environments and protect
+the plants and animals living there. They are often captured
+for their magical properties by non-mages, as they are widely
+known to offer powerful healing magic. In addition to directly
+fighting forresters, the Fae can command the wildlife they live
+with to fight on their behalf.
+
+Intelligent non-humanoids
+
+  Flesh Elemental
+A heap of infected biomass created by a ghoul horde, flesh
+elementals serve as leadership and food storage. Nectar produced
+by flesh elementals halts the deterioration caused by ghoul fever,
+and can cure infected beings that have not turned to ghouls. A
+successful flesh elemental will divide in half to form two
+elementals each controlling half the original horde of ghouls.
+The blood god is a flesh elemental existing on a planetary scale, and
+is thus capable of intense magic.
+
+  Dragon
+Large winged reptiles from the ice realm, dragons boast intelligence
+alongside a compulsion to hoard valuables. In addition to flight,
+they have the natural ability to breathe fire using inherent magic.
+A dragon's blood, scales, and bones are incredibly potent alchemical
+ingredients as a result of their biological use of mana.

@@ -1,0 +1,10 @@
+This file contains a list of locations found in the Europan ruins for the
+purpose of map design.
+
+  Fueling Station
+
+  Theatre
+
+
+  Church Town
+A loose gathering of buildings with a church on a hill at the center.

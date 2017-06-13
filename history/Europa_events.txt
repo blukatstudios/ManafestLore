@@ -1,119 +1,157 @@
-These events can exist during the aftermath of Europa's destruction, but are
-not assured. The numbering implies sequence.
+The purpose of this list is to provide ideas for quests.
+The numbering implies sequence.
+
+********************************************************************************
+Main Plot
+********************************************************************************
+
 
 ************
+Background
+************
 
-  [R1]Roman Blockade
+  [R0]Roman Blockade
 The Romans establish fortified walls along the Northern border with Europa's
 wastes. Only Roman citizens are allowed across the border. Europans are
 shot on sight at the border, though trading posts are established just outside
 this area.
 
-  [C1]Carthage Tower
+  [C0]Carthage Tower
 An airship from Carthage builds a tower for investors to oversee the
 reconstruction of Europa from.
 
-  [S1]New Sparta
+  [S0]New Sparta
 A large group of Roman ultra-conservatives move into the wastes of Europa to
 start their own city state. Europan surivors are used as slaves to build up
 the city of New Sparta.
 
-  [G1]Albion Exodus
-The Gaul are expelled from the isle of Albion and begin flocking to the wastes
-of the Western wastes to prospect and settle in old factories.
+  [G0]Albion Exodus
+The Gaul are expelled from the isle of Albion due to the demonic resurgence and 
+begin flocking to the Western wastes to prospect and settle in old factories.
+They set up camp just outside a group of factories inhabited by monsters.
 
-*************
+***************
+First-encounters
+These should only cause factions to like you more.
+***************
 
-  [R2]Roman Investigation
+  [R1]Roman Investigation
 After the romans are provided proof that some of Europa's tooling may have
 survived the divine war, a special team is sent to locate and secure the 
 site. 
+Quests: Check on three last-known locations of missing roman scouts.
 
-  [C2a]Carthage Europan Works
+  [C1a]Carthage Europan Works
 Using local labor and equipment, the Gaul headquarters is converted back into
 a production and manufacturing center for Carthage goods.
+Quests: Clear out factory floors of Gaul Headquarters. Find Gauls or 
+Europans to man the factory.
 
-  [C2b]Carthage Europan Arena
+  [C1b]Carthage Europan Arena
 Using local labor and equipment, an arena is fashioned for recorded fights
 between slaves, prisoners, and beasts. The Neo Spartans begin using the arena
 as training grounds.
+Quests: Clear out building site, talk to Spartans, Gaul, or Europans to 
+set up arena.
 
-  [C2c]Carthage Corrections
+  [C1c]Carthage Corrections
 A prison is built next to the Carthage Tower. slave labor displaces existing
 workers and supplies Neo Sparta with a slave market.
+Quests: Clear out site for prison. Talk to spartans to run the prison.
 
-  [G2]Gaul Headquarters
+  [G1]Gaul Headquarters
 The gaul purge the local beasts from a grouping of factory buildings and 
 begin relocating families into the facility.
-
-************
-
-  [R3]Roman Containment
-With the location of the Europan tooling known, Roman forces are sent to secure
-the spot from local forces.
-
-  [C3a]Carthage Covert Cleanup
-Carthage sends covert agents to find and elminate anyone tasked with finding 
-the old Europan tooling.
-
-  [C3b]Carthage Survey
-Carthage sends special forces to locate the old Europan tooling before others.
-
-  [G3]Gaul retooling
-The gaul send scavenging parties into the urban wastes to recover equipment
-and supplies in order to industrialize.
-
-  [S3]Spartan arms
-The spartans begin sending scouting parties into the urban wastes to recover
-old weapons.
-
-************
-
-  [R4]Roman Legion
-Once aware of the tooling's location, roman troops advance to clear out the 
-Europan wastes and create a secure path to retrieve the tooling with.
-
-  [C4a]Carthage Extraction
-Paramilitary forces are sent down to forcefully secure the tooling and move it
-to the surface for recovery. 
-
-  [S4a]Spartan-Carthage Contract
-In exchange for arms, the Neo-Spartans participate in extracting the Europan
-tools using slave labor.
-
-  [S4b]Spartan Seizure
-After locating the tooling, the Spartans begin production of advanced goods 
-using slave labor. Carthage and Roman bombardments target buildings at random.
-
-  [G4]Gaul re-retooling
-The gaul relocate the Europan tooling to their headquarters and begin producing
-advanced goods whilst Carthage and Roman bombardments target buildings at random.
+Quests: Clear out the Gaul Headquarters buildings.
 
 ***************
+Locating the tooling for whatever factions you're loyal to.
+***************
 
-  [R5a]Roman Pacification
+  [R2]Roman Containment
+With the location of the Europan tooling known, Roman forces are sent to secure
+the spot from local threats.
+Quests: Eliminate three nearby strongholds/enemy nests.
+
+  [C2a]Carthage Covert Cleanup
+Carthage sends covert agents to find and eliminate anyone tasked with finding 
+the old Europan tooling.
+Quests: Eliminate Gaul informant, Spartan informant, Roman informant.
+
+  [C2b]Carthage Survey
+Carthage sends special forces to locate the old Europan tooling before others.
+Quests: Explore three sites.
+
+  [G2]Gaul retooling
+The gaul send scavenging parties into the urban wastes to recover equipment
+and supplies in order to industrialize.
+Quests: Clear three scavenging sites.
+
+  [S2]Spartan arms
+The spartans begin sending scouting parties into the urban wastes to recover
+old weapons.
+Quests: Investigate three sites.
+
+************
+
+  [R3]Roman Legion
+Once aware of the tooling's location, roman troops advance to clear out the 
+Europan wastes and create a secure path to retrieve the tooling with.
+Quests: Plant charges in three buildings in order to create a path for the
+Roman convoy.
+
+  [C3a]Carthage Extraction
+Paramilitary forces are sent down to forcefully secure the tooling and move it
+to the surface for recovery. 
+Quests: Prevent Roman teams from destroying buildings. Secure anti-air weapons.
+
+  [S3a]Spartan-Carthage Contract
+In exchange for arms, the Neo-Spartans participate in extracting the Europan
+tools using slave labor.
+Quests: Negotiate with Carthage and Spartan leaders.
+
+  [S3b]Spartan Seizure
+After locating the tooling, the Spartans begin production of advanced goods 
+using slave labor. Carthage and Roman bombardments target buildings at random.
+Quests: Eliminate the Carthage and Roman special forces.
+
+  [G3]Gaul re-retooling
+The gaul relocate the Europan tooling to their headquarters and begin producing
+advanced goods whilst Carthage and Roman bombardments target buildings at random.
+Quests: Guard gaul engineers as they disassemble tooling. Ensure all tooling
+parts make it to gaul headquarters.
+
+***************
+Response to initial clashes of factions.
+***************
+
+  [R4a]Roman Pacification
 After believing the Europan tooling to be destroyed, the Romans pull out of 
 Europa's wastes and resume guarding the border carefully.
+Quests: Demolish tooling building.
 
-  [R5b]Roman hot war
+  [R4b]Roman hot war
 The routing of the assigned legion leads Rome to dedicate more soldiers to
 annex all of the wastes, including the gaul headquarters and New Sparta.
+Quests:
 
-  [C5a]Carthage Pacification
+
+  [C4a]Carthage Pacification
 Believing the Europan tooling to be destroyed, recalls its operatives and returns
 to business as usual.
+Quests: Destroy tooling building.
 
-  [C5b]Carthage Proxy War
+  [C4b]Carthage Proxy War
 Carthage pays the Neo Spartans handsomely to fight on their behalf against
 advancing Roman troops.  Outnumbered, the Spartans must use group coordination
 , superior firepower, and their terrain in order to hold off seemingly endless
 waves of Roman soldiers.
 
-  [S5]Spartan warfare
+  [S4]Spartan warfare
 The Spartans send teams to recover anti aircraft guns and armored vehicles
 in order to fight off invading forces.
 
-  [G5]Gaul Reinforcements
+  [G4]Gaul Reinforcements
 With weapons and supplies rolling off the production lines at the gaul 
 headquarters, gaul immigrants begin showing up en masse to help stand ground 
 against Roman and Spartan forces. Engineering teams are sent to repair
@@ -121,18 +159,22 @@ some aircraft in order to confront Carthage bombers and attack Roman
 artillery.
 
 ***************
+End Game
+***************
 
-  [R6]Romans Victory
+  [R5]Romans Victory
 Europa becomes a province of Rome after it is secured from hostile locals.
 
-  [C6]Carthage Victory
+  [C5]Carthage Victory
 Carthage successfully extracts the tooling to an airship and pulls troops and
 aircraft from the region.
 
-  [S6]Spartan victory
+  [S5]Spartan victory
 The spartans manage to repel both Carthage and the Romans through inflicting
 heavy losses.
 
-  [G6]Gaul Victory
+  [G5]Gaul Victory
 After shooting down a Carthage airship and destroying major artillery positions,
 Europa is quickly taken by Gaul cavalry air power.
+
+

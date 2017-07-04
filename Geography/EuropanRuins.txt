@@ -89,3 +89,22 @@ raid the dump in search of slaves or combat experience.
 Heavily bombed during the war, the old military arsennal is mostly
 a crater and a couple basement floors. The personnel on staff moved
 to Oasis, taking as much supplies as they could when they left.
+
+********************************************************************************
+********************************************************************************
+********************************************************************************
+Map design
+********************************************************************************
+
+Philosophy considering buildings:
+-Model out the ground floor interior and balconies, where relevant.
+-Make entry into the building optional.
+-Determine the height of the buidling and use it for 
+-Make Urban, Suburban, and rural varients of structures.
+
+
+  High rise buildings
+Shops on the ground floor, apartments above. These structures have loading
+zones, but otherwise are devoid of parking.
+
+  Parking structures

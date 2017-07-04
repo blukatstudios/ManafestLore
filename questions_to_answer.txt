@@ -1,0 +1,31 @@
+About a faction
+1. What is the leadership?
+2. What is its ideology?
+3. Internal(subfactions)/external politics
+4. technology/economics
+5. Key characters
+6. Timeline of history
+
+About a character
+1. Biography(childhood, adolescence, adulthood)
+2. What is their problem?
+3. How do they deal with their problem?
+4. How do they fit into the world?
+
+About a technology
+1. What are its components?
+2. How do its components interact with one another?
+3. Who uses this tech, where and when?
+4. What are the applications of this tech?
+
+About a race
+1. What are its origins/purposes?
+2. Where is this race found, and in what numbers?
+3. How does this race react to others and their institutions?
+4. What does the ICEPAWS look like for this race?
+
+About an event
+1. Where/when did it happen?
+2. How did prior/concurrent events effect it?
+3. What are the consequences?
+4. Who was involved, and why?

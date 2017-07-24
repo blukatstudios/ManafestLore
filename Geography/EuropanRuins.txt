@@ -75,10 +75,9 @@ of a ghoul horde whose flesh elemental seeks to power up the
 portal on board and make contact with the blood realm.
 
   Farm Town
-A small human town built from scrap where a sewage line burst during
-the war. The stream of water has made this area ripe for agriculture,
-and thus farmers have gathered to grow crops here. Han infiltrators
-live in this town.
+A small shanty town built by Europan survivors. At the heart of the town is a 
+spigot leading to fresh water from the water processing plant. This is a
+listening post for Han infiltrators to hear about the outside world.
 
   Dump
 Completely ignored in the war, the dump is home to piles of discarded
@@ -86,9 +85,9 @@ vehicles, gadgets, and genuine refuse. The Neo Spartans frequently
 raid the dump in search of slaves or combat experience.
 
   Arsennal
-Heavily bombed during the war, the old military arsennal is mostly
-a crater and a couple basement floors. The personnel on staff moved
-to Oasis, taking as much supplies as they could when they left.
+Heavily bombed during the war, the old military arsennal consists mostly of
+a crater with a couple basement floors at the bottom. The personnel on staff 
+moved to Oasis, taking with them as many supplies as they could when they left.
 
 ********************************************************************************
 ********************************************************************************
@@ -98,7 +97,7 @@ Map design
 
 Philosophy considering buildings:
 -Model out the ground floor interior and balconies, where relevant.
--Make entry into the building optional.
+-Make a no-entry(external) version of every building.
 -Determine the height of the buidling and use it for 
 -Make Urban, Suburban, and rural varients of structures.
 

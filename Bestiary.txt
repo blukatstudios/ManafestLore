@@ -94,3 +94,43 @@ alongside a compulsion to hoard valuables. In addition to flight,
 they have the natural ability to breathe fire using inherent magic.
 A dragon's blood, scales, and bones are incredibly potent alchemical
 ingredients as a result of their biological use of mana.
+
+  Automaman
+Used in Europa as general-purpose laborers, automamen have human souls in them, 
+and as such are intelligent. Due to the fact that they are made from 
+highly-valuable parts, most live far from traditional humanoids in fear of 
+being disassembled for cash. With few exceptions, Automamen will attack organics 
+on sight.
+
+Ferals
+
+  Bear
+Will attack if player gets close. Drops fur and meat.
+
+  Wolf
+Travels in groups. Will attack smaller groups by circling. Drops fur and meat.
+
+  Deer
+Runs if player approaches. Drops hide and meat.
+
+  Air squid
+Small creatures from the blood realm that use gas bladders to float in the air.
+They propel themselves by using their skin to create jets of air.
+
+  Automa-mouse
+In Europa's golden age these soul-powered devices vacuumed and cleaned the
+streets. Most wander aimlessly now. They are passive. They drop parts.
+
+  Automa-cat
+Pest control for Europa. These devices will now atack on sight with their jaws.
+They drop parts.
+
+  Automa-dog
+Acts as police assistant.  Most dog bots are crazy now, and will attack on sight
+due to going crazy after the bombs dropped. Automa-dogs are often armed with 
+hyperdermic needles in their teeth to stun their foes. They drop parts. 
+
+  Feral Automaman
+Though otherwise identical, feral automamen are unintelligent and remarkably
+violent without an automaman to lead them. They drop expensive parts.
+

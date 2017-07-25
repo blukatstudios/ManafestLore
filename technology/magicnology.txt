@@ -45,6 +45,17 @@ significant deterioration.
 Components
 ****************
 
+  Memory tape
+Spools of this black tape store magnetic charges, allowing for the storage of
+bulk data more reliable than black box computers. 
+
+  Circuit boards
+Using either the flow of mana or electricity, logic can be embedded to produce
+certain outputs when given certain inputs. Two circuit boards with identical
+function can range dramatically in size depending upon the manufacturer. The
+main advantage of circuit boards is their output speed and reliability for
+mathematical calculations when compared to black box computers
+
   Mana Cell
 A soul trapped in a cage of soul stone with at least one soul silver
 line by which mana can be pumped in or drained out of the vessel.
@@ -76,6 +87,14 @@ surface of a length of fiber embedded with soul metal. This tape
 hosts a secondary storage of information that can outlive an
 indiviudal computer and be simultaneously accessed by mutliple 
 black boxes simultaneously. 
+
+  Light pane
+A matrix of tiny light-emitting spell crystals produces images of various colors
+when connected to circuit boards or black box computers. Memory tape can be used
+to store motion pictures for playback.
+
+  Electrical Transducer
+Spell crystals convert energy between electricity and mana.
 
 ****************
 Weaponry
@@ -121,8 +140,22 @@ well as actuators for the suit. The user can move the body at will
 by directing mana energy to them.
 
 ****************
-Construction
+Industrial
 ****************
+
+  Thermo-Mana Plant
+An incineration chamber burns a variety of fuel types, converting
+the heat released into mana.
+
+  Mana Bank
+A black box computer with access to an array of mana cells and 
+a communicator. The mana bank buys and sells mana cells, allowing
+for efficient distribution of mana amongst sparsely populated regions.
+
+  Mana Tower
+A black box computer that collects mana from nearby sources
+and stores it into an array of mana cells. The Mana Tower
+provides carthage with a significant amount of its mana.
 
   Integrity field generator
 Architects can build massive structures out of cheap material by strategically
@@ -147,25 +180,7 @@ persistence of content despite failure of individual servers. In addition to
 hosting static content such as images, documents, and audio, interactive 
 net worlds feature multiplayer interactive simulations. 
 
-  Memory tape
-Spools of this black tape store magnetic charges, allowing for the storage of
-bulk data more reliable than black box computers. 
-
-  Circuit boards
-Using either the flow of mana or electricity, logic can be embedded to produce
-certain outputs when given certain inputs. Two circuit boards with identical
-function can range dramatically in size depending upon the manufacturer. The
-main advantage of circuit boards is their output speed and reliability for
-mathematical calculations when compared to black box computers
-
-  Database manager
+  Database
 With training, a black box computer can be used to manage the contents
 of a database.
 
-  Light pane
-A matrix of tiny light-emitting spell crystals produces images of various colors
-when connected to circuit boards or black box computers. Memory tape can be used
-to store motion pictures for playback.
-
-  Sound chrystal
-Small containers with 

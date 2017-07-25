@@ -1,0 +1,25 @@
+  Ranged Weaponry
+Spear
+A long shaft of wood with a sharp tip, either wood, flint, or metal.
+
+Long Bow
+A length of wood held under tension by a draw string.
+
+CrossBow
+A bow drawn and held by mechanical means. Released by trigger.
+
+Short Sword/Knife
+A flat length of bone, flint, or metal with a point.
+
+Musket
+A 
+
+Revolver Pistol
+Turret Revolver Rifle
+Sliding Bar Repeater
+Side-by-side shotgun
+chain pistol
+Bolt Rifle-
+Lever Rifle-
+Machine Pistol
+Machine Rifle

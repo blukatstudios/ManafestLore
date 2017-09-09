@@ -1,3 +1,6 @@
+********************************************************************************
+      History
+********************************************************************************
 The Beginning
 The divines came to the mainland of Europa to fight one another.
 The Gnomes, Goblins, and Demons were created by divine transformation
@@ -58,3 +61,17 @@ value of their arcane technology. Though migrant gauls, roman
 traders, and survivors from before the war inhabited the land, 
 it became a monument to the double-edged sword of technological
 progress.
+
+********************************************************************************
+      Europan military
+********************************************************************************
+
+"Last stand" Shotgun
+The proximity of civilian populations to the frontlines inspired the
+civilians of Europa to take up arms in order to provide a rapid
+defense the professional military could not. To oblige this demand,
+the europan government mass-produced a line of cheap firearms fit for
+the general public. Households that could not afford weapons were
+provided them. A particular stamped single-shot shotgun affectionately
+named the "last stand" shotgun was the iconic symbol of the Europan
+refusal to surrender.

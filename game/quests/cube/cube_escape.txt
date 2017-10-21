@@ -1,0 +1,8 @@
+Description:
+The player needs to escape the cube.
+
+Characters:
+A (Supervisor)
+B (Co-worker)
+
+

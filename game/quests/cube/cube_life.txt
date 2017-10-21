@@ -1,0 +1,60 @@
+Description:
+The player goes through the daily routine of a factory worker living in a
+Europan cube.
+
+
+Characters:
+A- Supervisor
+B- Coworker
+
+User story:
+
+Player wakes in their room to a knock on the door. Their alarm is unplugged.
+
+Player navigates to door. A is on the other side.
+A: "How could you sleep in on your first day?! Come with me, your line is about
+to start."
+
+The player follows A through a few hallways and an empty office.
+A: "You're lucky to be starting now. During the war we court martialed no-shows."
+
+The player pauses in front of a door marked escape.
+A: "Don't touch that. Opening " 
+
+The player is led to the factory floor.
+A: "Here's your station. B will help you from here. Don't screw this up."
+A leaves.
+
+The production line starts. *Mini game opportunity.*
+Production line stops.
+A (on intercom): "We are experiencing technical difficulties. The lines will
+resume production shortly."
+
+
+B: "Name's B. My dad was a farmer before the war. Took us to this cube when I
+was a kid. What's your story?"
+
+The player picks a background for their character.
+B comments on their background.
+The line resumes for the remainder of the shift.
+
+
+B: "Here, have a drink on me"
+B puts money into an Ice Paws vending machine.
+The player chooses their ICEPAWS stats.
+B: "That's one heck of an Ice Paws. I'll see you tomorrow."
+
+The player heads back to their room and uses their bed.
+
+********************************************************************************
+Repeating process
+********************************************************************************
+
+The player wakes up to their alarm going off.
+
+The player moves to the production line.
+The player performs their shift.
+
+The player returns to their home and uses their bed.
+
+********************************************************************************

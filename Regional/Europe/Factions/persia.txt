@@ -1,10 +1,10 @@
-  Background
+[Origin]
+The Persian Empire spread NorthEast of the Mediteranian where it seized a 
+permanent foothold.
 
-  Outsiders
-Though the divines did not initially come to Parthia, inhabitants 
-of the the Dream Realm did. The dreamers initially attempted to
-blend into Parthian society, but were soon discovered.
-
-  Inter-realm war
-Parthia accep
+[Dreamers]
+The dreamers visited Persia, delivering knowledge of arcane magic in exchange
+for resources and asylum from a civil war in the Dreamer realm. These dreamers
+went into hiding, though the magic users multiplied as the next generations 
+were taught from a young age.
 

@@ -1,5 +1,7 @@
-This repository is a place to store and organize notes about this universe.
-If you are reading this, understand that the content within has not been
-created for your eyes. Also, this repo is now becoming a node.js website.
+This website is a slightly fancier way to gather my thoughts than a loose bundle
+of spiral bound notebooks. The contents are details about a science fiction
+high fantasy universe which is intended to serve as the setting for video games.
+Also, this repo is now becoming a node.js website.
 
-[Placeholder] denotes that a given entity has not yet been named.
+Before it was a node.js site, this repo was a gathering of interlinked html 
+files, and before that it was just a bunch of txt files. 

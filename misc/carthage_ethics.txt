@@ -1,11 +1,35 @@
-Carthage and its proprietors receive their fair share of criticsm. Wheat farmers driven out of business
-by the low price of Carthage wheat oft lob these critisms with blind anger. "How could you do this to us?"
-They say. Easily. On your farm you broke your back to till the soil under a baking sun. After the harvests, 
-your expensive wheat barely covered your expenses. The families that ate this wheat paid the high price with
-money otherwise spent on clothing, medicine, or rainy day money. Now that cheap flour has come to your land,
-these families work jobs for Carthage. From a single shift in a Carthage factory a father can feed his family
-bread for a week. The children can go to school and the mother can enjoy a well-deserved break from her constant
-parenting to relax, or pick up a half-shift to afford luxuries that were previously unknown. That demand for 
-luxuries opens new factories, and soon even the unemployed farmer can find work with higher pay and fewer hours.
-
+Some seek to own the world. Most others seek smaller things. Cities, villages, farms, or homes
+await ownershio. But what does it mean to own any of these things?
  
+Perfect ownership is characterized by two properties:
+1. One exercises autonomy over that which is owned.
+2. One prevents others from doing the same.
+
+A king claims, by royal decree, that he owns a forest. The authorities know to apprehend anyone
+found trespassing. However, since the land is vast and uninhabited, the royal guard seldom if
+ever steps foot in the forest. 
+
+Peasants, ignoring the royal decree in favor of their own interests, move in. They cut
+a clearing and build a small village there. Whilst they know they are hidden from the king
+and his soldiers, they likewise know they could not hope to defend themselves if discovered.
+
+Who owns this land? A Roman soldier would undoubtedly claim the authority of the king takes precedence. A Han farmer would hold fast to the principle that the 
+land belongs to those which better it. I hope to impress upon you that both of these answers are prescriptive, an attempt to tell the world how it should behave. 
+Regardless of the moral truth of this issue, the world will only abide by its own rules. A scholar of Carthage will describe the precariousness of this
+situation in terms of its reasoned consequences.
+
+Carthage is now without its moral sensibilities, but it proudly displays only two principles: stability and growth. 
+
+Stability consists of the intersection of altruism and self-interest. It is the regard for the system as a whole. Small entities in large systems
+can act in a parasitic fashion with a significant chance of never feeling the consequences in their life cycles. Like the peasants, they must live in constant fear of
+discovery and ensuing destruction. Risk over time approaches the certainty of negative outcomes. It's for this reason that a long-lived entity reduces the chance
+of negative outcomes as well as minimizes the magnitude of these outcomes as well. By succeeding in these aims, an entity extends its life past the dismal scale
+of a leach. 
+
+A desire for growth is born from the understanding that big fish eat smaller ones. The king should not be competing with his subjects, as that fight leans clearly
+in his favor. Instead, he should be leveraging them as an asset in competition with other kings of other lands. By leaving his forests completely unused he not only
+leaves it vulnerable to exploitation by others, but he robs himself of any benefit from it and potentially feeds his enemy. If those villagers fear the wrath of 
+their king, they may simple reach out to another king for protection. For a generous tribute, that other king may send soldiers to annex the land and prevent a
+clean takeover of the village. If the king had sought to improve his forest with trails, to send hunting parties, and to clear spaces for forestry camps, he would
+have discovered the village, quickly brought it to heel, and then expanded the aformentioned industries using it as a base of operations. The rival kingdoms would
+thus be comparatively weaker by exactly however many resources were gained. 

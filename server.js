@@ -36,6 +36,7 @@ function page_to_file(page){
     // Characters and races
     'bestiary' : 'bestiary.html',
     'pantheon' : 'pantheon.html',
+    'history' : 'history.html'
   };
   if(!(page in pages)){ return ''; }
   return 'templates/' + pages[page];

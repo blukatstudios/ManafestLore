@@ -1,4 +1,4 @@
-# hifi-universe (AKA Manafest Lore)
+# Manafest Lore
 This repo contains information on factions, characters, technology/magic, and settings for use in [FPS_Project](https://github.com/blukatstudios/FPS_Project) when it matures past its tech demo state and begins to accumulate content.
 
 ## SPOILER ALERT

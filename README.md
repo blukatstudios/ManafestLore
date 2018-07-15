@@ -1,28 +1,8 @@
 #hifi-universe (AKA Manafest Lore)
-This repo is a disorderly mess, but fundamentally it is a dumping place
-for information on a high fantasy science fiction universe. Said universe
-is intended to provide settings, characters, and items for use in the
-[FPS_Project](https://github.com/blukatstudios/FPS_Project) when it matures.
+This repo contains information on factions, characters, technology/magic, and settings for use in [FPS_Project](https://github.com/blukatstudios/FPS_Project) when it matures past its tech demo state and begins to accumulate content.
 
-#TL;DR Look at the markdown folder for latest info
+##SPOILER ALERT
+There are no attempts at pacing the delivery of info the way a coherent narrative might. This is more along the lines of encyclopedia entries or the list of ingredients on the back of a pack of gum.
 
-
-# Development
-
-Tasks:
-- Make markdown versions of html files.
-- Get node server to render markdown as html
-- create site wrapper with navigation buttons
-
-## Node site (server.js and templates folder)
-This crude static site currently serves up HTML files without performing any formatting to speak of.
-An eventual goal will be to abandon tediously editing HTML files and get the site to convert markdown
-into HTML and do rendering for things like navigation buttons.
-
-## Short writings (text folder)
-These files resulted from creative writing exercises and are from the perspectives of characters in
-the universe. They serve as flavor text and supplementary info.
-
-## Markdown content
-Ideally all the HTML in this repo will be converted to markdown for ease of formatting. Those files
-will go here.
+## Development
+The markdown and text folders contain files of their respective types, with the text tending toward writing exercises and the markdown consisting of a enclopedic presentation of lore. The git history shows that there was once a node site to serve html templates, but these have been considered overkill for the task at hand and thus have been discarded in favor of simple markdown formatting. This repo is intended to be viewed on its github page. 

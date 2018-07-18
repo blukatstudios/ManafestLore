@@ -1,6 +1,6 @@
 # Long House Confederation
 
-## Prologue
+# Prologue
 
 The people of the confederation lived peacefully alongside the fae and dragons that came from the Ice Realm. Paying tribute, they earned protection from the dragons and small miracles from the fae.
 

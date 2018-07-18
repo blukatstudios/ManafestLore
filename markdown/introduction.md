@@ -1,17 +1,14 @@
 # Introduction
 
 ## What is Manafest?
-Manafest is a high fantasy science fiction universe intended for use
-with a video game. This lore sets up substance such as factions, 
-technologies, characters, and rules of the universe that can be used
-in flexible timelines decided by gameplay.
+Manafest is a high fantasy science fiction universe intended for use with a video game. This lore sets up substance such as factions, technologies, characters, and rules of the universe that can be used in flexible timelines decided by gameplay.
 
 ## Segments of Manafest
 
+Two segments, the prologue, and sandbox, will be discussed in these documents. 
+
 ### Prologue
-The events leading up to the interactive portion of the universe can
-be considered a prologue. It is linear and its events can be defined
-in great detail. A simple overview.
+The events leading up to the interactive portion of the universe can be considered a prologue. It is linear and its events can be defined in great detail. They are set in stone and cannot be altered by player action. A simple overview:
 
 - In the distant future, a technological singularity is created.
 - That technological singularity converts the universe and neighboring dimensions into one massive computer.
@@ -21,16 +18,10 @@ in great detail. A simple overview.
 - The history of Earth is changed dramatically by these connections around the year 1 BC.
 
 ### Sandbox
-Following the linear segment comes information on the factions arising on Earth as a result of
-interference by other realms(the aforementioned alternate worlds) and the mana they introduce.
-
-It's important to note that historical accuracy is not the highest priority of this project, nor
-is it one that is deemed possible with the time and resources available. Best guesses and secondary
-sources are acceptable under the premise that each historical civilization is completely transformed
-by exposure to this shared timeline. 
+The sandbox segment of this lore that are subject to change with player intervention. Europa's aftermath is a great example of this, as the events that take place cannot even be reconciled into a discrete set of times from which a player chooses. Instead of attempting to draw these kinds of graphs and charts, elements and events are identified with a notion of where the timeline most likely will lead if uninterrupted. 
 
 ## Factions
-Roughly broken down by region, the factions are as follows:
+Broken down by region, the factions are as follows:
 
 
 **North America**
@@ -55,7 +46,7 @@ Roughly broken down by region, the factions are as follows:
 - Federated Great Kingdoms
 
 ## Realms
-These are the paralel simulations of the solar system that connect.
+These are the paralel dimensions that connect with the overworld.
 
 **Overworld**
 The mana of the overworld is mundane in that it retains energy, but cannot in itself perform magic.

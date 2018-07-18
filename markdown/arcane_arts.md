@@ -1,12 +1,12 @@
 # Arcane Arts
 he arcane arts consist of disciplines of mortal magic.
 
-##The Manum
+## The Manum
 
 A manum is a particle that serves as the base unit of mana. Mana passes right through solid objects, a manum will collide with another manum.  
 
 
-##The Soul
+## The Soul
 
 A soul is a living bundle of mana. Most souls feed off the energy of a living host. Many souls are part of a symbiotic relationship in which they provide their host body with access to magic.
 
@@ -17,7 +17,7 @@ Though the soul lacks a corporeal form, it is made up of distinct parts:
 - Mouth-Casts spells.
 
 
-##Disciplines
+## Disciplines
 
 Spells can generally be broken down between those that effect mana and those that effect matter. Each successive tier requires more raw power as well as more intricate patterns and precise positioning of the spell matrix in order to cast effectively. As a result, it's far more likely a magician can create flames from their hands than form and throw fireballs(using force), or heal the damage done by either.
 
@@ -28,22 +28,22 @@ Spells can generally be broken down between those that effect mana and those tha
 |2|Force|Mind|
 |3|Flesh|Soul|
 
-#Energy
+# Energy
 Energy manipulation is simple to learn, but difficult to master. This art not only consists of converting between mana and non-mana energy, but also in directing or focusing energy.
 
-##Spells
+## Spells
 
-####Novice
+#### Novice
 - Glow
 - Tinder
 
 
-####Apprentice
+#### Apprentice
 - Flaming Touch
 - Absorb Heat
 
 
-####Journeyman
+#### Journeyman
 - Frost Touch
 - Absorb Light
 

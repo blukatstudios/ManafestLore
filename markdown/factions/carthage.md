@@ -1,7 +1,7 @@
 # Carthage
 
 
-## Prologue
+# Prologue
 
 Carthage grew off the monopoly of the bronze trade, an asset that provided inordinate wealth. After the arrival of the divines, Carthage sent expeditions into the Ice Realm and built massive facilities where the resulting influx of arcane materials were studied and manufactured into mana devices.
 
@@ -49,3 +49,5 @@ C stands for communication, as it offered an incredibly simple vocabulary and an
 C also stands for citizen. Carthage merchants were subject to sales taxes that formed a citizen's fund. Each citizen was entitled to either half their portion in mana credits, or investing the full amount into a grant with at least 10,000 signatures. Citizenship required an individual swear an oath to abide by Carthage laws, pay a citizenship fee (often by taking out a high-interest citizenship loan), and proving they could read and write in C. Residency, however, was not a requirement for citizenhip. This created a heavy incentive for literacy worldwide and created potential translators where none had previously existed.
 
 C lastly stands for Carthage. Wherever the language spread, so too did credits to purchase imported goods and services from Carthage. Foreign embassies established to offer simple banking and limited trade, but often expanded into fullblown trade centers where carthagean airships made bulk deliveries.
+
+# Sandbox

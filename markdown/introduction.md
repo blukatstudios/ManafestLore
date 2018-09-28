@@ -18,10 +18,10 @@ The events leading up to the interactive portion of the universe can be consider
 - The history of Earth is changed dramatically by these connections around the year 1 BC.
 
 ### Sandbox
-The sandbox segment of this lore that are subject to change with player intervention. Europa's aftermath is a great example of this, as the events that take place cannot even be reconciled into a discrete set of times from which a player chooses. Instead of attempting to draw these kinds of graphs and charts, elements and events are identified with a notion of where the timeline most likely will lead if uninterrupted. 
+The sandbox segment of this lore that are subject to change with player intervention. Europa's aftermath is a great example of this, as the events that take place cannot even be reconciled into a discrete set of times from which a player chooses. Instead of attempting to draw these kinds of graphs and charts, elements and events are identified with a notion of where the timeline most likely will lead if uninterrupted. The sandbox sections of these markdown files will contain random tidbits uses for creative purposes.
 
-## Factions
-Broken down by region, the factions are as follows:
+## Factions Of The Overworld
+Broken down by region, the global factions are as follows:
 
 
 **North America**

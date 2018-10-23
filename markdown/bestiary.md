@@ -1,5 +1,7 @@
 # Bestiary
 
+# Humanoids
+
 ## Human
 Natives of the overworld, humans are the jack of all trades when it comes to mortal creatures. Their main advantage is their variety of viable skillsets, whilst their weakness is difficulty with which they master learned skills. 
 
@@ -75,7 +77,7 @@ When enough ghouls gather in a hive mind, they form flesh elementals to serve as
 ## Dragon
 Large winged reptiles from the ice realm, dragons boast intelligence alongside a compulsion to hoard valuables. In addition to flight, they have the natural ability to breathe fire using inherent magic. A dragon's blood, scales, and bones are incredibly potent alchemical ingredients as a result of their biological use of mana.
 
-# Feral Beasts
+# Overworld Beasts
 
 ## Bear
 Will often fight or flight when sighted. When berzerked, bears are known to ignore fatal damage until their central nervous system is effected.
@@ -86,5 +88,29 @@ Wolves hunt in packs, and it is their clever use of numbers to surround and entr
 ## Deer
 Runs when approached, and can sense odors and sounds from great distances.
 
+## Snake
+Varying in size and venom potency, snakes are most dangerous because of their natural cammoflage and their quiet movement.
+
+# Extraplanar Beasts
+Creatures foreign to the overworld's ecosystems.
+
 ## Air squid
 Held aloft by gas sacks and some organic magic, these creatures use their many tentacles to drag morsels of food from nooks and crannies. They mostly scavenge the dead and eat smaller animals, but can attack if provoked.
+
+# Europan Beasts
+Many creatures found not only a strange resistance to the radiation surrounding the ruins of Europa, but actively convert it to mana and again into calories. 
+
+## Giant Crab
+Giant crabs range from roughly a meter in each dimension to three. Their shells contain a mixture of heavy metals that provide the radiation shielding necessary to thrive in radiation hotspots. These shells are gained by feasting upon metal objects. Though they enjoy a rare meal, giant crabs spend the majority of their lifecycle filter-feeding radiation in a sedentary fashion.
+
+## Giant Spider
+These creatures stand roughly the same size as giant crabs, but do not have the luxury of subsisting purely off of radiation. Giant spiders dig underground nests and stack debris atop a cammoflauged trap door that they can lift in order to grab unsuspecting prey.
+
+## Razor Swarm
+The razor bug queen builds its nest in zones of lower radiation where it can process radiation more efficiently than its workers. A swarm arises when the hive detects an intruder near its nest. Razor bugs get their name from the metalic content of their chitin. Warriors in a hive have multiple barbs and sharp edges capable of drawing blood if touched by bare skin. A razor swarm will land on their target and attempt to burrow into the them. They can shred through anything softer than bronze.
+
+## Glow Dog
+As the name indicates, glow dogs produce a glow around them in any arbitrary color. Ultraviolet light is included in this glow, illuminating to the glow dog's developed eyes organic residue for tracking purposes. Semi-intelligent, glow dogs can be domesticated as guard animals.
+
+## Land Coral
+Much like giant crabs, land coral has adapted to subsist upon radiation. Unlike crabs, however, land coral is completely immobile, and is extremely aggressive towards approaching animals. Land coral has developed a sophisticated method of mimicking sounds it hears in attempts to lure creatures nearby and potentially secure nutrients it cannot synthesize from radiation. Though immobile, these creatures can extend their tentacles a couple meters out from their shells, proving dangerous to unsuspecting prey.

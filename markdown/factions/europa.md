@@ -12,3 +12,13 @@ The battles continued, and Carthage replaced raw materials in exchange for the l
 Several atomic bombs were produced, deemed planet busters. When the divines grew tired of watching their armies getting reliably defeated every week, they took matters into their own hands. Europa elected to be destroyed before it could be captured, detonating bombs to kill each of the attacking divines. The resulting wasteland was overrun by magical creatures that fed on radiation. Blast sites and critical reactors flooded with hordes of these monsters, the beasts unwittingly serving as protectors of Europas many artifacts and lost technologies. 
 
 # Sandbox
+
+## Europan exports
+
+Following the divine wars and destruction of Europa, Carthage trade ships have viewed the region as cheap land upon which to set up several businesses.
+
+- global prison
+- lost-tech artifacts
+- building materials
+- exotic arcane beasts
+- deadly gameshows

@@ -51,3 +51,9 @@ C also stands for citizen. Carthage merchants were subject to sales taxes that f
 C lastly stands for Carthage. Wherever the language spread, so too did credits to purchase imported goods and services from Carthage. Foreign embassies established to offer simple banking and limited trade, but often expanded into fullblown trade centers where carthagean airships made bulk deliveries.
 
 # Sandbox
+
+## Carthage exports
+
+- global communications
+- global trade/transportation
+- magicnology devices

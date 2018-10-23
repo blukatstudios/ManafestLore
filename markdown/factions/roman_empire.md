@@ -33,3 +33,10 @@ The Romans recruited her ensemble of muses as a source of propaganda and distrac
   - Terpsichore (dance)
   - Thalia (comedy)
   - Urania (astronomy)
+
+
+## Roman exports
+- Cheap labor
+- Media (art, music, poetry, plays, videos, actors)
+- Minor miracles
+- Roman military services

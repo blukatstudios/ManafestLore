@@ -6,4 +6,15 @@ The kingdoms that littered the Indian subcontinent were very easily overpowered 
 
 The divines that held the kingdoms practiced flesh craft regularly and made many monsters. Each kingdom chose one of these creations and made it more powerful with a stream of daily prayers. These creatures would fight as a first line of defense against neighbors as well as provide help to its people.
 
+When the divine civil war took place, the less-than-divine creations of fleshcraft were entirely ignored, leaving the federation intact. 
+
 # Sandbox
+
+
+## Federation exports
+Carthage trade ships flooded the Federation to flow labor and goods back and forth.
+
+- Spices
+- Labor
+- Mercenaries
+- Flesh crafters

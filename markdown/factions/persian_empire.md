@@ -7,3 +7,12 @@ Persia was born alongside the dreamers, refugees of a civil war in the Dream Rea
 The dreamers vanished as mysteriously as they had appeared, leaving Persia a powerful and magically-endowed political entity. In stable regions mages made fire without wood, pulled fresh water from sea air, and made ice from water.
 
 # Sandbox
+
+## Persian exports
+
+- Mages for hire
+- Glass works
+- Ice
+- Healing
+- Media (Dreamer philosophy, art of the arcane)
+- pistacios

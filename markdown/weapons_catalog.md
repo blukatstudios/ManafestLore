@@ -104,27 +104,27 @@ A more advanced version of the longbow with outward-curving limbs that deliver m
 By increasing the poundage, using a metal bolt instead of an arrow, and locking bow into the fired position before use, the cross bow offers superior firepower and an incredibly slow rate of fire. A crank is generally used to cock crossbows.
 
 **Mods** 
-Second Bow - Crank once, fire twice. Nearly double base weight.
-Third Bow - Crank once, fire thrice. Nearly triple base weight.
-Magic auto crank - use mana to crank the crossbow quickly. Increase weight.
-Internal Magazine - loads a stored bolt automatically when cocked. (Can't use with second or third bow)
-Top rail
-Under Rail
+- Second Bow - Crank once, fire twice. Nearly double base weight.
+- Third Bow - Crank once, fire thrice. Nearly triple base weight.
+- Magic auto crank - use mana to crank the crossbow quickly. Increase weight.
+- Internal Magazine - loads a stored bolt automatically when cocked. (Can't use with second or third bow)
+- Top rail
+- Under Rail
 
 ![Air Gun](https://upload.wikimedia.org/wikipedia/commons/4/48/Girandoni_Air_Rifle.jpg)
 ## Air Gun
 Pressurized gas from a reserve tank propels a bullet (or musket ball) through the weapon's barrel at high speed. Nearly silent when compared with firearms.
 
 **Mods**
-Rifling - Increases accuracy and range.
-Large tank - Hold more air for additional shots. Added weight.
-Mana pump - use mana to restore air pressure
-Hand pump - pump to restore air pressure
-Tube (8 shot) - feed new bullet from tube after each shot
-External magazine - feed new bullets
-Hopper - gravity feed around 50 musket balls into weapon (excludes top rail) 
-Top rail 
-Under rail
+- Rifling - Increases accuracy and range.
+- Large tank - Hold more air for additional shots. Added weight.
+- Mana pump - use mana to restore air pressure
+- Hand pump - pump to restore air pressure
+- Tube (8 shot) - feed new bullet from tube after each shot
+- External magazine - feed new bullets
+- Hopper - gravity feed around 50 musket balls into weapon (excludes top rail) 
+- Top rail 
+- Under rail
 
 # Ballistic (Gunpowder)
 
@@ -133,22 +133,22 @@ Under rail
 Loaded through the muzzle and by default smootheboar and match lock, these firearms are the most ubiquitous around the world due to their crude design and construction.
 
 **Mods**
-Rifling - Increased accuracy and range.
-Second barrel - Double weight and reload time, two shots
-Third barrel - Triple weight and reload time, three shots
-Top rail
-Under rail
-Flint lock
+- Rifling - Increased accuracy and range.
+- Second barrel - Double weight and reload time, two shots
+- Third barrel - Triple weight and reload time, three shots
+- Top rail
+- Under rail
+- Flint lock
 
 ![Revolver](https://upload.wikimedia.org/wikipedia/commons/d/df/Colt_Navy_Model_1851.JPG)
 ## Revolving rifle
 A rotating cylinder holds 6 cartridges fired with percussion caps through a rifled barrel.
 
 **Mods**
-10-round cylinder - Added weight, more shots before reload
-20-round cylinder - Added weight and bulk, more ammo before reload.
-Top rail
-Under rail
+- 10-round cylinder - Added weight, more shots before reload
+- 20-round cylinder - Added weight and bulk, more ammo before reload.
+- Top rail
+- Under rail
 
 
 ![Turret Revolver](https://www.thefirearmblog.com/blog/wp-content/uploads/2016/04/Capture-660x283.png)
@@ -159,4 +159,53 @@ A rifle with a cylinder that sits horizontally atop the gun and rotates around t
 # Explosive
 
 # Caster
+Casting devices operate by the mechanics of directing the flow of mana (either from the wielder or a built-in reserve) through a spell crystal, casting a spell. More advanced casters will contain multiple crystals that allow multiple spells as well as more complex ones.
 
+## Caster Ring
+The simplest of all casting devices, the caster ring is made from a band of mana steel with an inset mana crystal. A trained wearer with a soul can direct their mana into the ring and cast the crystal's spell. Unless wielded by mages, caster rings are typically used for simple, cheap spells such as producing heat, light, or electricity. On a mage's finger, however, caster rings can channel a vast amount of unfocused energy into very precise spells such as laser beams, lightning bolts, or fine telekenises. 
+
+**Mods**
+- Thick band- adds weight, but improves mana efficiency
+- Spell crystal slot
+- Inset soul stones to provide mana reserve
+
+## Caster Wand
+With more room for expansion than a ring, a wand often routes mana through a mana steel core to an embedded soul crystal at the business end.
+
+**Mods**
+- Soul stone inset for mana reserve
+- Spell crystal slot
+
+## Caster Rifle
+Wielded at the shoulder, a caster rifle primarily serves industrial and military purposes. In an industrial capacity, caster rifles can drive nails/spikes, levitate or push heavy objects, and serve as a spot light. 
+
+**Mods**
+Stock
+    - None
+    - Standard stock
+    - Light stock
+    - Ergonomic stock
+    - Hollow stock with compartment
+    - Replenisher stock (drains mana from user)
+Muzzle
+    - Single crystal
+    - Multi crystal: rapid fire
+    - Multi crystal: volley fire
+    - Multi crystal: select fire
+Reserve
+    - Standard internal reserve (must be recharged)
+    - Standard external reserve (Reloadable)
+    - Heavy external reserve
+    - External reserve pack
+    - Internal magazine (Each mana cell can be charged simultaneously for simultaneous discharge)
+    - Standard external box magazine
+    - Extended external magazine
+    - Drum magazine
+Optics
+    - None
+    - Iron sights
+    - Reflex sight
+    - Holographic sight
+    - Short scope
+    - Medium scope
+    - Long scope

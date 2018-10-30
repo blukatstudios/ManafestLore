@@ -17,8 +17,10 @@ Several atomic bombs were produced, deemed planet busters. When the divines grew
 
 Following the divine wars and destruction of Europa, Carthage trade ships have viewed the region as cheap land upon which to set up several businesses.
 
-- global prison
-- lost-tech artifacts
-- building materials
-- exotic arcane beasts
-- deadly gameshows
+Labor:
+    - global prison
+    - deadly gameshows
+Goods:
+    - lost-tech artifacts
+    - building materials
+    - exotic arcane beasts

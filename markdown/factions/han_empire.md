@@ -19,9 +19,11 @@ A few of the workshops are dedicated toward the study and reverse-engineering of
 ## Han exports
 Naturally, Carthage set down airships on Han land to ferry goods and labor. Without the global food market and exchange of Han goods, even the gnomes would have starved.
 
-- silk
-- textiles
-- Tinkers/engineers/smiths
-- clockwork gadgets
-- steam turbines
-- internal combustion engines
+Labor:
+    - Tinkers/engineers/smiths
+Goods:
+    - silk
+    - textiles
+    - clockwork gadgets
+    - steam turbines
+    - internal combustion engines

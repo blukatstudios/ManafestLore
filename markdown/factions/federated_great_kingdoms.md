@@ -16,7 +16,9 @@ When the divine civil war took place, the less-than-divine creations of fleshcra
 ## Federation exports
 Carthage trade ships flooded the Federation to flow labor and goods back and forth.
 
-- Spices - The region is replete with many exotic spices
-- Labor - The surplus population are eager to take on jobs
-- Mercenaries - The monsters can serve as deadly combatants in conventional wars
-- Flesh crafters - Though far weaker than the divines, some FGK mages have learned to craft flesh in order to heal wounds or make alterations to anatomy.
+Labor:
+    - The surplus population are eager to take on jobs
+    - Monster mercenaries
+    - Though far weaker than the divines, some FGK mages have learned to craft flesh in order to heal wounds or make alterations to anatomy. 
+Food:
+    - Spices - The region is replete with many exotic spices

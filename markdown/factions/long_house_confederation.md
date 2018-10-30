@@ -13,10 +13,13 @@ As soon as the Aztec slavers began praying upon nomads in the South, the Long Ho
 ## Confederation exports
 Carthage scattered a couple airships over the region to locate the confederation's main cities, but they found none. Consequently, trade is decentralized and difficult for the Confederation. 
 
-- beast men for hire
-- animal pelts and furs
-- corn
-- squash
-- green beans
-- buffalo meat/milk
-- fish
+Labor:
+    - beast men for hire
+Food:
+    - corn
+    - squash
+    - green beans
+    - buffalo meat/milk
+    - fish
+Goods:
+    - animal pelts and furs

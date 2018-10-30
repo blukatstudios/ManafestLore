@@ -36,7 +36,9 @@ The Romans recruited her ensemble of muses as a source of propaganda and distrac
 
 
 ## Roman exports
-- Cheap labor
+Labor:
+    - Empoverished workers
+    - Roman military services
+    - Minor miracles
+Goods:
 - Media (art, music, poetry, plays, videos, actors)
-- Minor miracles
-- Roman military services

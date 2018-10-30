@@ -1,5 +1,5 @@
 # Arcane Arts
-he arcane arts consist of disciplines of mortal magic.
+The arcane arts consist of several disciplines of mortal magic.
 
 ## The Manum
 

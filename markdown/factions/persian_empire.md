@@ -10,9 +10,12 @@ The dreamers vanished as mysteriously as they had appeared, leaving Persia a pow
 
 ## Persian exports
 
-- Mages for hire
+Labor:
+    - Mages for hire
+    - Healing
+Food:
+    - pistacios
+Goods:
 - Glass works
 - Ice
-- Healing
 - Media (Dreamer philosophy, art of the arcane)
-- pistacios

@@ -1,4 +1,5 @@
 # Bestiary
+There are many creatures that inhabit the various realms of all shapes, sizes, intelligences, and temperments.
 
 # Humanoids
 

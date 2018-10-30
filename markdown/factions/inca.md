@@ -15,17 +15,19 @@ Carthage established laboratories dedicated to the study of the stone elementals
 - transmutation stations where large amounts of mana can be applied to convert elements
 
 ## Incan exports
-- corn
-- potatoes
-- peanuts
-- cotton
-- tin
-- silver
-- gold
-- guano
-- rubber
-- coffee
-- quinoa
-- fish
-- rice
-- stone elemental workers
+Food:
+    - corn
+    - potatoes
+    - peanuts
+    - cotton
+    - tin
+    - silver
+    - gold
+    - guano
+    - rubber
+    - coffee
+    - quinoa
+    - fish
+    - rice
+Labor:
+    - stone elemental workers

@@ -11,3 +11,6 @@ Aztec excursions North into the continental plains brought abundant slave labor 
 # Sandbox
 
 
+## Aztec exports
+Food:
+    - Corn

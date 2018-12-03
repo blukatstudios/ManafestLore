@@ -47,115 +47,114 @@ Energy manipulation is simple to learn, but difficult to master. This art not on
 - Frost Touch
 - Absorb Light
 
-####Expert
+#### Expert
 - Fireball
 - Beam
 
 
-#Force
+# Force
 Force manipulation differs from energy in that it not only requires skill to
 successfully execute spells, but also the raw willpower to command the required
 mana. Though brute force is adequate for simpler spells, more complex ones 
 such as lockpicking require the exact application of small forces.
 
 
-##Spells
+## Spells
 
-####Novice
+#### Novice
 - Force Push
 - Force Pull
 - Levitate
 
 
-####Apprentice
+#### Apprentice
 - Force Lunge
 - Force Stab
 - Force Throw
 - Force Wall
 
 
-####Journeyman
+#### Journeyman
 - Force Shield
 - Force Flight
 
-####Expert
+#### Expert
 - Force Lockpick
 - Force Interact
 
 
-
-#Flesh
+# Flesh
 Extending one's soul into another's body, a mage can leverage energy and
 force magic to heal or harm their target.
 
 
-##Spells
+## Spells
 
-####Novice
+#### Novice
 - Berzerk
 - Shock
 
 
-####Apprentice
+#### Apprentice
 - Clot
 - Bleed
 
 
-####Journeyman
+#### Journeyman
 - Heal Limb
 - Heal Burn
 
-####Expert
+#### Expert
 - Heal
 
 
 
-#Mana
+# Mana
 Any mage can manipulate mana from their own soul. Mana manipulation is the 
 discipline of extending one's control to free mana and mana in other souls.
 A soul drained completely of its mana will cease to live in the overworld, 
 rendering its user magically-inert.
 
 
-##Spells
+## Spells
 
-####Novice
+#### Novice
 - Overcharge
 
 
-####Apprentice
+#### Apprentice
 - Absorb Mana
 
 
-####Journeyman
+#### Journeyman
 - Give Mana
 - Soul Drain
 
-####Expert
+#### Expert
 - Overcast
 
 
 
-#Mind
+# Mind
 Mind manipulation requires not only a fair deal of intelligence, but also a greater willpower than your target. The strong-willed are immune to the mind tricks of even the most skilled mages of lesser will.
 
 
-##Spells
+## Spells
 
-####Novice
+#### Novice
 - Detect Mind
 
 
-####Apprentice
+#### Apprentice
 - Listen
 
 
-####Journeyman
+#### Journeyman
 - Mindspeak
 - Intimidate
 - Charm
 
-####Expert
+#### Expert
 - Dominate
 - Confound
 
@@ -165,21 +164,21 @@ Mind manipulation requires not only a fair deal of intelligence, but also a grea
 Soul magic extends from mana manipulation to altering living souls and the arcane fabric of the universe itself.
 
 
-##Spells
+## Spells
 
-####Novice
+#### Novice
 - Detect Soul
 
 
-####Apprentice
+#### Apprentice
 - Bind Soul, Liberate Soul
 
 
-####Journeyman
+#### Journeyman
 - Merge Soul
 - Divide Soul
 
-####Expert
+#### Expert
 - Open Portal
 
 

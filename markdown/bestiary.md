@@ -78,6 +78,30 @@ When enough ghouls gather in a hive mind, they form flesh elementals to serve as
 ## Dragon
 Large winged reptiles from the ice realm, dragons boast intelligence alongside a compulsion to hoard valuables. In addition to flight, they have the natural ability to breathe fire using inherent magic. A dragon's blood, scales, and bones are incredibly potent alchemical ingredients as a result of their biological use of mana.
 
+# Automata
+A soul trapped inside a machine, automata cannot produce their own mana, and so slowly drain whatever supply they keep within themselves. Mana collectors are thus built into most models.
+
+## Block Bot
+Though block bots contain more parts than some of their alternatives, the shear scale of their production and ubiquity of the parts they are constructed from make construction and maintenance cheaper than small-scale builds. Thus, block bots are purchased in bulk to provide a general labor consisting of disparate skills more efficiently than specialized counterparts. Block bots generally contain a small grouping of multiple simpler computors made from smaller souls. As such, block bots are extremly useful for simple, repetitive tasks, and those that require constant work.
+
+## Roller Bot
+The roller bot's tall stature, thick plating, and powerful actuators make it the logical choice for heavy industrial and military applications. A roller bot's secondary use is entering a knealing pose so that the wheels on its shins can propel it with differential steering, allowing for carrying heavy objects with minimal opportunities for tripping.
+
+## Weapons Bot
+Designed exclusively for military purposes, the four-legged weapons bot contains a tail to mount a weapon of some form on. Though weapons bots can act individually as mobile weapons platforms, their major role is to cling to other robots and provide smart firepower. A block bot may not know the intricacies of operating a particular weapons system, but they can be very easily trained to point an arm-mounted weapons bot at a target and let deligate the task. Likewise, weapons bots can detatch from incapacitated wearers, seek out resupplied independently, and even serve as sentries. In non-military applications, weapons bots are equipped and trained with industrial tools. 
+
+## Connector Bot
+Three legs double as antennae for a powerful communications suite built into the connector bot's spherical body. The mobility of the chassis is designed specifically for climbing to, and then clinging to positions of high altitude in order to maximize effective range. In addition to merely communicating, a connector bot can direct mana from a source to particular targets in range, supporting front-line mana technology from a safe distance. The ability to synthesize input from a small fleet of Orb Bots into a single three-dimensional map is likewise invaluable for surveilance.
+
+## Orb Bot
+A sphere roughly the size of a large apple, the orb bot contains a small sensor suite, computor, and force actuator for the purpose of gathering data. Due to limited on-board computational power and mana reserve, orb bots often swarm around Connector Bots
+
+## Phylactory Bot
+The wealthiest commission a phylactory suit to contain their soul in its humanoid form, achieving extended longevity by discarding the limitations of organic life.
+
+## Brain Bot
+An option far less costly than a whole phylactory suit is a slot on a brain bot, a bipedal bot made as a vehicle for a collective of minds. Brain bots rarely move from their positions locked into connections to the telepathic network, where each soul can exist in a more meaningful form than the sinlge tendril extending from their soul stone.
+
 # Overworld Beasts
 
 ## Bear

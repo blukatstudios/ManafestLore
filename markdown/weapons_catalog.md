@@ -155,6 +155,12 @@ A rotating cylinder holds 6 cartridges fired with percussion caps through a rifl
 ## Turret revolver rifle
 A rifle with a cylinder that sits horizontally atop the gun and rotates around the vertical axis.
 
+## Europan Pistol (ER-1)
+Fed from an external box magazine, the Europan pistol uses smokeless powder to deliver aa pistol-caliber round down-range. The ability to fire seven times combined with the ease of reloading made the weapon a must-have as a backup as well as a primary weapon for non-combat roles.
+
+## Europan submachine gun (ER-31)
+Providing automatic fire for sweeping trenches and suppressing the enemy was the main goal of this weapon. Wielding pistol-caliber rounds, the weapon proved itself in eliminating goblins efficiently.
+
 
 # Explosive
 
@@ -209,3 +215,27 @@ Optics
     - Short scope
     - Medium scope
     - Long scope
+
+## Caster Cannon
+Fundamentally a scaled-up caster rifle, caster cannons often command either hundreds of smaller mana cells, or a few large ones to do their work. The scale of these dictates these devices are either mounted to tripods or vehicles capable of handling their weight. Whilst spell crystals of grand scale do exist, most caster cannons utilize many similar crystals in series. Consequently, canons have very different uses.
+
+**Light Beam Cluster**
+A cannon can focus many small beams on a single point, hitting it at the speed of light. This is primarily useful for shooting down high-flying airborne targets that are either out of ballistic cannon range, or can easily evade such a projectile most often.
+
+**Shield Sphere**
+Artillery and concentrated fire on an area can be devestating, which is why the shield dome comes in handy in any major defensive structure. A spherical wall of force creates an air-tight bubble that can detonate explosive charges at a safe distance, or otherwise rob kinetic weapons of their potency. These devices can also be used under water, in other realms, or in space to create pressure chambers to fill with atmosphere. A shield sphere surrounding an aircraft can be pumped to vaccum and then filled with a light gas, creating a balloon that can survive being punctured temporarily by projectiles.
+
+**Repulsor**
+A caster rifle can jolt a spike into a railroad tie. A repulsor, however, can throw a train. Airships rely primarily upon these devices to keep afloat, and just about every hover vehicle's chassis is built around a repulsor to propel it. Repulsors made for levitation generally incorporate materials from the Ice Realm that have anti-gravity properties, raising material costs by an order of magnitude whilst lowering mana consumption dramatically.
+
+**Actuator Motor**
+With significant effort of computers and computors alike, an actuator motor can hold a chassis together by integrity fields alone. Where the actuator motor differs from a repulsor is in the fine accuracy with which it performs. In the simplest case, an actuator motor turns a flywheel and that torque can be used elsewhere to propel a wheeled or tracked vehicle. On the farther scale of complexity, an actuator motor can assemble a chassis from available materials, constructing a many-legged vehicle as it moves. Provided a robust mana supply, such an improvised vehicle can take severe damage and simply reform using the broken exterior components. The same independent actuations that comprise its integrity fields can be used to launch projectiles. It's important to note that actuator motors consume insane quantities of mana.
+
+**Flesh Tank**
+Employing biological magics, a flesh tank can heal the critically wounded as well as it can transform one living thing into another through flesh craft. Such a device requires a source of intelligence posessing knowledge of flesh craft, and so very few exist.
+
+**Collector**
+Armed with a battery of energy conversion spell crystals, a collector syphens one or more forms of energy into mana. Placed in direct sunlight, beside a furnace, surrounding nuclear fuel rods, or simply in a crowded venue, collectors account for the majority of industrial mana production. Collectors are almost always connected to mana banks.
+
+**Mana Bank**
+Massive storage structures capable of transferring their contents, mana banks are often used in large structures and vehicles that tend to consume mana faster than it is produced. 

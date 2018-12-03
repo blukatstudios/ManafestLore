@@ -2,8 +2,6 @@
 
 The divine and arcane arts seem quite similar at first glance. In both disciplines the magician uses the compoistion of their soul to channel the flow of raw mana energy into a spell. The difference, however, is that of a campfire that cooks an egg and a forge fire that turns red dust to metal ingots.
 
-
-
 It is a common fact that divines have souls magnitudes larger than those of mortals, even when their host bodies assume the form of a human. With these larger souls comes an inexplicable increase in magical aptitude. A divine and human with the same amount of mana are capable of completely different spells. It is speculated a divine soul posesses an intelligence of performing magic efficiently and with great precision. As the density of mana energy available reaches a certain theshold, the traditional laws of mana that govern magicnology are thrown out the window. There is not merely a  mechanistic conversion between various forms of energy, but some form of intelligence is leveraged.
 
 

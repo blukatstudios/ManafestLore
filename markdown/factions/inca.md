@@ -29,5 +29,7 @@ Food:
     - quinoa
     - fish
     - rice
+Material:
+    - rare minerals
 Labor:
     - stone elemental workers

@@ -66,6 +66,5 @@ In this realm latent mana energy converted to energy, expanding Sol until it eng
 **Stone Realm**
 Life emerged in asteroid fields in this realm long before it had on Earth. Meteorites brought the first stone elementals planetside at around the time of the cretaceous, and not long after that they gained enough energy to open portals to the overworld.
 
-
 **Blood Realm**
 Mana formed organic compounds with its latent reactions in this realm. The first organisms to harness this property formed a dense layer of what looked like fungus accross the planet's surface. Eventually sentience arose as this mass became a colonial organism. The first few portals to the overworld established sites of this unique fungal bloom that spread the first cases of ghoul fever. 

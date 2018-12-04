@@ -35,3 +35,7 @@ Goods:
     - lost-tech artifacts
     - building materials
     - exotic arcane beasts
+
+## Ambitions
+
+The only Europans that survived the divine cataclysm did so due to their residence of Europan defense cubes. The appearance of beasts in the mines below the cubes combined with a dwindling food source forced all but Cube East from being evacuated. Consequently, Cube East's population seek to recover technology from the neighboring cubes, restore trade with Carthage, and rebuild. The arrival of beasts, the establishment of New Sparta, and the radioactivity plaguing this prevent its immediate completion.

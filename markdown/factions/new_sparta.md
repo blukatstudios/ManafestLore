@@ -10,4 +10,7 @@ Originally formed by hordes of displaced Roman citizens, the first neo-spartans 
 
 Lost technologies make up the bulk of Spartan trade goods, although the nation trades them for roughly a hundred times the price scavengers originally asked. 
 
+## Ambitions
 
+**Excavations**
+Sparta has made a business of clearing out beast-infested ruins and pulling the lost tech from them. Most of the safe locations have been thoroughly looted, leaving mostly the Europa defense cubes and their underground networks behind.

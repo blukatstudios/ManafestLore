@@ -22,3 +22,7 @@ Labor:
     - Though far weaker than the divines, some FGK mages have learned to craft flesh in order to heal wounds or make alterations to anatomy. 
 Food:
     - Spices - The region is replete with many exotic spices
+
+## Ambitions
+
+### 

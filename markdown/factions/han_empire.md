@@ -35,3 +35,14 @@ Goods:
     - clockwork gadgets
     - steam turbines
     - internal combustion engines
+
+## Ambitions
+
+### Global Trade
+
+The Hans built a clustering of gnome boxes surrounding portals offered as gifts from Carthage. An influx of raw resources into the region was met by a stream of finished goods moving out to saturate demand abroad. The accumulation of wealth grew these gnome boxes into enormous industrial centers capable of an economy of scale that further augmented both revenue and profit. Even still, Han exports barely scratch the surface of global demand for various finished goods. The Han government thus created commissions to tackle the current obstacles to expansion.
+
+- Carthage-owned mines charge premium prices, and so the Han Empire seeks out acquisition of new mines.
+- Arcane technologies compete directly with Han technologies, and so some Hans seek out the destruction of Europan artifacts.
+- Other Hans attempt to incorporate arcane technology into their existing designs and tooling. 
+

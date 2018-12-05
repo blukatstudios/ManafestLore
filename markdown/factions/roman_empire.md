@@ -42,3 +42,11 @@ Labor:
     - Minor miracles
 Goods:
 - Media (art, music, poetry, plays, videos, actors)
+
+## Ambitions
+
+### Surplus population
+
+The fallout of the divine civil war left Rome without divine sources of food, wood, oil, and clean water. The angered masses were expunged from the land, starting with lower classes and moving up a caste at a time until a new equilibrium was reached. Even after the exodus, resources remain tight for individuals not in the highest classes. Worse, the expelled populations have turned to theft and mercenary work to survive. Violence between the Roman guard displaced refugees have escalated and turned all border regions into potential combat hotspots. Rations provided by the Roman government in attempt to quiet hungry thieves had the opposite effect, creating new targets for attacks that have thus increased Roman military presence.
+
+

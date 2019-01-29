@@ -12,16 +12,16 @@ The gnomes were a divine answer to starvation and a need for technological progr
 ## BeastMan
 Tribal worshippers were transformed into these creatures as a divine reward for service. Endowed with the senses, stamina, and hides of the animals they now resemble, these beast men approach their life of nomadic hunting and gathering with exceeding ease. The most common types of beast men are listed below, though the full selection created in the great plains and elsewhere is far more diverse. 
 
-**Wolves**
+### Wolves
 Formed from the marrow of social hunters, the wolf men learned to excel at chasing herds of prey across the great plains. Endowed with a mixture of endurance, strength, agility, and powerful smelling and hearing, they are excellent trackers.
 
-**Mountain Lions**
+### Mountain Lions
 The lion men inherited a more subtle set of hunting skills. Crouched low in the grass or climbing high in the trees, they stalk their prey with natural night vision and can match their canine counterparts in hearing and detecting scents. 
 
-**Black Bears**
+### Black Bears
 The bulky, heavy-framed creatures that claim ursine blood wield incredible strength and short distance maneuverability. They found great success in felling trees and hauing them distances. It's for this reason that the black bears tend the long houses that sprouted up across the great plains and forests.
 
-**Hawks**
+### Hawks
 Superior vision and the gift of flight defined the hawk men. Though flight renders hawks great hunters, it is more often utilized for trade and communication between tribes. A message sent by hawk can travel quickly over long distances, and some hawk men have managed to fly even with large satchels stuffed with goods for trade.
 
 ## Divine

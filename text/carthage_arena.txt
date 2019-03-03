@@ -1,0 +1,85 @@
+[Introduction]
+
+A bearded man in purple silken robe stood before a backdrop of a massive stone structure.
+Fanfare played and the camera framed itself around the man, bringing into focus 
+the many pieces of glimmering jewelry that stood out against his smooth, 
+dark complexion.
+
+"I'm Hasdrubal, and you're watching Arena, a show where our competitors fight to
+the death for fame, glory, and one wish to our sponsors. The combatants they 
+face are convicted criminals competing for a pardon to their sentence and a 
+return to the free world. Let's meet our contestants!"
+
+[beast]
+The camera cut to Hasdrubal standing in front of a creature that for all 
+intents and purposes seemed to be a wolf with the frame of a human. The beast
+was adorned with the bearest of clothing: a headband and a loin cloth both made
+from hide. The creature's posture bent forward ever-so-slightly, but was
+distinctly sapient. He wasn't quite a wolf, but no one could mistake him for a
+human. Clutched between two hand-like paws was an extent of wood affixed at one
+end with a large flint arrowhead.
+
+"Hailing from the untamed plains sandwiched between Azteca and the Longhouse Confederacy,
+this contestant brings claws, jaws, and a spear to fight in the big leagues.
+And wait untill you hear his reason for fighting. Tell them why you're here, big guy."
+
+The ridge of the beast's nose wrinkled and his eyes narrowed. Bearing his fangs,
+the he growled out his declaration without raising his voice.
+
+"My name is Tarak, and I have come to defeat you devils and drive out your 
+purple sails before you fell every tree, bare every mountaintop, and poison
+every river like you've done to the South."
+
+The announcer stroked his beard while he listened. His pearly white teeth 
+flashed as a smile boiled over into a barely-stifled chuckle. Without regaining
+his composure, the man peered to the beast, as if to make sure he was serious,
+then back to the camera, as if sharing an inside joke with the unseen audience.
+
+"You heard it straight from the horse's-or should I say wolf's-mouth, people.
+This contestant fights to save his people from soap, Plum products, and 
+refrigeration. We wish you luck."
+
+[mage]
+Just as before, the camera cut to another contestant. This one was distinctly
+human and of fair complexion and prominant eyebrows. Near-black peach fuzz 
+peppered the man's slightly-pointed jawline. His hair was tucked nearly under a
+muted green turban. An open blue robe hung down over the man's torso and legs, 
+blue stripes running vertically across his body and in rings around his arms. 
+Solid blue trousers bollowed out below a large belt and tapered to his ankles to 
+avoid obscuring the up-curved toes of his shoes. In one hand he held at arm's
+length a gnarly bulb of crystals embedded in a sphere of glass that sat at the
+end of a long staff.
+
+"No stranger to the library of Ashurbanipal, our next contestant channels his
+natural aptitude for the arcane arts through his magic staff. Don't forget to
+check out his four episode vid-cast 'I learned to use magic, and so can you'
+after the show. Tell our good viewers why you're here, Heydar."
+
+The mage showed a toothy grin to the camera and spoke both confidently and
+charismatically. This wasn't his first performance.
+
+"I'm here to humbly demonstrate the merit of hand-sewn magic. Magical gadgets 
+are fine for doing laundry, or showing vidcasts, but magic really comes to life
+with the touch of a skilled artisan. If I win, I'll build the first arcane 
+academy and share my gift with you."
+
+[soldier]
+The camera cut for a third time to the last contestant. The man wore a cuirass
+of iron scales and a deep gold tunic beneath. Boots rose up his legs to
+meet some baggy golden trousers, and a helmet of iron tiles framed his pale
+face. The man held a crossbow to one shoulder, wore a small handcannon on one
+hip, and a broad knife on the other.
+
+"Here we have a former royal guard of the Han empire turned mercenary. This 
+isn't his first rodeo, and he's come equipped with a powerful crossbow and 
+handcannon to blow away the compeititon. Tell us why you're here, soldier."
+
+The man stood statuesque the entire time, only turning his eyes to the camera.
+"This is free advertising. I'll show the audience what happens when you hire
+the right man for the job, and then I'll head home with the fifty bars
+of gold as per the contract I signed. Don't gamble on other mercenaries. 
+Hire Liu's Crew today."
+
+The announcer belted out a jovial laugh with the soldier's comment.
+"Ahahaha, courageous words from a committed combat connoisseur. Well, that's a
+wrap for introductions. Let the games begin!"

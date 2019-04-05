@@ -101,13 +101,25 @@ A more advanced version of the longbow with outward-curving limbs that deliver m
 
 ![Crossbow](https://upload.wikimedia.org/wikipedia/commons/f/f2/DaVinci_Crossbow.JPG)
 ## Cross Bow
-By increasing the poundage, using a metal bolt instead of an arrow, and locking bow into the fired position before use, the cross bow offers superior firepower and an incredibly slow rate of fire. A crank is generally used to cock crossbows.
+By increasing the poundage, using a metal bolt instead of an arrow, and locking bow into the fired position before use, the cross bow offers superior firepower and an incredibly slow rate of fire. A hand crank is generally used to cock crossbows over the course of twenty to thirty seconds.
 
-**Mods** 
-- Second Bow - Crank once, fire twice. Nearly double base weight.
-- Third Bow - Crank once, fire thrice. Nearly triple base weight.
-- Magic auto crank - use mana to crank the crossbow quickly. Increase weight.
-- Internal Magazine - loads a stored bolt automatically when cocked. (Can't use with second or third bow)
+### variants
+
+**Single**
+Standard, cheap model for mass production. Punches through armor, making it effective against heavy infantry.
+
+**Double crossbow**
+By layering a second bow atop the first, a double crossbow enables its marksman to fire twice with two separate triggers. This double's the operator's immediate firepower, though firing repeatedly offers no huge benefit over a single bow. The weight is almost doubled by this addition, making the weapon less mobile. Accuracy at range is hindered by the two bows interfering with aiming.
+
+**Triple crossbow**
+A second and third bow atop the first allow three shots before a reload. This lends an incredible amount of firepower to the operator if rushed, but is not significantly faster than a single bow after the first reload. Triple crossbows with autoloaders are often scaled up, mounted on walls or tripods, and crew operated. A team of three can carry a crew served triple crossbow and supplies to location and assemble it. Once assembled, a gunner fires the crossbow and a loader on each side place bolts from the larger supply as the three bows are cocked. When operated efficiently, a triple crossbow can fire its armor-piercing projectiles at a sustained rate of roughly two rounds a second. 
+
+![Repeating crossbow](https://upload.wikimedia.org/wikipedia/commons/c/ca/Repeating_crossbow_WBZ.jpg)
+**Repeating crossbow**
+A redesign allows a one-handed lever action to draw the string and load a bolt from a magazine. This allows the repeating crossbow to fire faster than the other variants with sustained fire. The main disadvantage to this design is the reduction in tension of the draw string resulting in reduced range and speed of the bolt. Weaker repeating crossbows cannot puncture tough hide armor, but are still deadly against unarmed targets. An arcane autocrank automatically loads a repeating crossbow so that the operator need only pull the trigger as long as he has bolts in the magazine. When they run out, a reload is in order, and such a setup requires a supply of mana.
+
+### Mods
+- Arcane autocrank
 - Top rail
 - Under Rail
 
@@ -115,14 +127,17 @@ By increasing the poundage, using a metal bolt instead of an arrow, and locking 
 ## Air Gun
 Pressurized gas from a reserve tank propels a bullet (or musket ball) through the weapon's barrel at high speed. Nearly silent when compared with firearms.
 
-**Mods**
+### Variants
+
+**Single Shot Air Gun**
+The standard, cheap model for mass production. The operator must pressurize the air tank and load a new projectile for each shot.
+
+**Repeater Air Gun**
+A box magazine or hopper automatically loads a new projectile after each shot. The air tank is made larger, and to withstand higher pressures, allowing the repeater to fire several times before pumping. Adding an arcane pump to a repeater allows the weapon to continuously restore pressure to its air tank and thus make projectiles the limiting factor of sustained fire. 
+
+### Mods
 - Rifling - Increases accuracy and range.
-- Large tank - Hold more air for additional shots. Added weight.
-- Mana pump - use mana to restore air pressure
-- Hand pump - pump to restore air pressure
-- Tube (8 shot) - feed new bullet from tube after each shot
-- External magazine - feed new bullets
-- Hopper - gravity feed around 50 musket balls into weapon (excludes top rail) 
+- Arcane pump - automatically recharges the air tank
 - Top rail 
 - Under rail
 
@@ -132,13 +147,27 @@ Pressurized gas from a reserve tank propels a bullet (or musket ball) through th
 ## Muzzle Loader
 Loaded through the muzzle and by default smootheboar and match lock, these firearms are the most ubiquitous around the world due to their crude design and construction.
 
+### Variants
+
+**Flintlock Pistol**
+The cheapest, most mobile variant of the muzzle loader. The pistol provides deadly firepower on one's hip as a last line of ranged defense before hand-to-hand fighting is required. 
+
+**Musket**
+A single smooth bore barel offers the cheapest, most mass-produceable version of the muzzle loader.
+
+**Double Barrel Musket**
+A second barrel doubles the firepower, but the weight as well. The increased reloading time makes this weapon useful mainly for increasing volume in volley fire as well as defending against charges.
+
+**Shoulder Fired Pepper Box Musket**
+A man-portable 2x2 cluster of barrels to provide an operator four consecutive shots before a reload. Used defensively, operators quadruple their firepower against charges.
+
+**Crew Served Pepper Box Guns**
+A team of three can move and assemble either a 4x4 or 10x10 barrel pepper box onto a tripod. Once set up, a clockwork trigger and set of hammers work to provide the operator 16 or 100 shots before a reload is needed. This is chiefly used to route charges, and is not viable for sustained or terribly accurate fire. 
+
 **Mods**
 - Rifling - Increased accuracy and range.
-- Second barrel - Double weight and reload time, two shots
-- Third barrel - Triple weight and reload time, three shots
 - Top rail
 - Under rail
-- Flint lock
 
 ![Revolver](https://upload.wikimedia.org/wikipedia/commons/d/df/Colt_Navy_Model_1851.JPG)
 ## Revolving rifle

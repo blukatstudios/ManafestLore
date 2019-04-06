@@ -1,0 +1,66 @@
+BTUs Per hour for individual:
+Asleep ~= 300
+Strenuous activity ~= 2000
+Average ~= 1150
+
+Gallon crude oil 	 ~=    138,095
+20 lb wood 	 	 ~=    160,000
+cord of wood     	 ~=  20,000,000
+Gallon of gas    	 ~=     124,000
+Nuke plant per day       ~= 582,000,000
+
+Efficiency of collection via body heat: 10%
+Asleep 300 * 0.1 = 30
+Strenuous activity 2000 * 0.1 = 200
+Average 1150 * 0.1 = 115
+
+Efficiency of collection in combustion chamber: 80%
+Gallon crude oil  138,095 * .8 =     110,476
+20 lb wood 	  160,000 * .8 =     128,000
+cord of wood   20,000,000 * .8 = 160,000,000
+Gallon of gas     124,000 * .8 =      99,200
+Nuke plant per day 582,000,000 * .8 = 465600000
+
+BTU -> joules
+1   ~= 1055
+Asleep 30 * 1055 =   31,650
+Strenuous activity 200 * 1055 = 211,000
+Average 114 * 1055 = 120,270
+
+Gallon crude oil  110,476 * 1055 =    116,552,180
+20 lb wood 	  128,000 * 1055 =    135,040,000
+cord of wood  160,000,000 * 1055 = 16,880,000,000
+Gallon of gas      99,200 * 1055 =    104,646,000
+Nuke plant per day 465600000 * 1055 = 491,208,000,000
+
+joules -> mana
+5,000 ~= 1
+
+Body per hour
+Asleep 			31,650  / 5000 = 6.33
+Strenuous activity 	211,000 / 5000 = 42.2
+Average 		120,270 / 5000 = 24
+
+Average wearer's day:
+Asleep 			6.33 * 8 =  50.64
+Strenuous activity 	42.2 * 8 = 337.6
+Average 		24   * 8 = 192
+One day total:			~= 600
+
+
+Gallon crude oil   116,552,180 / 5000 =         23,310.5
+20 lb wood 	   135,040,000 / 5000 =         27,008
+cord of wood    16,880,000,000 / 5000 =      3,376,000
+Gallon of gas      104,646,000 / 5000 =         20,929.2
+Nuke plant per day 491,208,000,000 / 5000 = 98,241,600
+
+Source/unit		      Mana
+person/day		             600
+30K city per day      18,000,000
+crude oil gallon	      23,310.5
+100 barrels of crude  97,904,100
+wood 20lb		          27,008
+cord of wood	       3,376,000
+100 acre wood per day    924,931.5
+Gallon of gas		      20,929.2
+Nuke plant per day    98,241,600

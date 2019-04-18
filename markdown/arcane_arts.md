@@ -31,26 +31,31 @@ Spells can generally be broken down between those that effect mana and those tha
 # Energy
 Energy manipulation is simple to learn, but difficult to master. This art not only consists of converting between mana and non-mana energy, but also in directing or focusing energy.
 
-## Spells
 
-#### Novice
-- Glow
-- Tinder
+**Glow**
+A gentle light shines around the caster.
+**Spotlight**
+A focused ray of light illuminates a target.
+**Beam**
+A damaging ray of light burns the target.
 
+**Absorb Light**
+Rays from the sun or a nearby fire are converted to mana.
 
-#### Apprentice
-- Flaming Touch
-- Absorb Heat
+**Flaming Touch**
+Intense heat forms at source of cast.
+**Flame fountain**
+Intense heat forms at source of cast aimed forward in a cone.
 
+**Shocking Touch**
+An elictric current is generated at the source of the cast.
+**Bolt**
+An arc of lightning connects from the source to the target.
 
-#### Journeyman
-- Frost Touch
-- Absorb Light
-
-#### Expert
-- Fireball
-- Beam
-
+**Absorb Heat**
+A nearby heat source is syphoned and converted into mana.
+**Freezing Touch**
+Heat is converted to mana at a loss, resulting in rapid onset of cold.
 
 # Force
 Force manipulation differs from energy in that it not only requires skill to
@@ -59,54 +64,56 @@ mana. Though brute force is adequate for simpler spells, more complex ones
 such as lockpicking require the exact application of small forces.
 
 
-## Spells
-
-#### Novice
-- Force Push
-- Force Pull
-- Levitate
-
-
-#### Apprentice
-- Force Lunge
-- Force Stab
-- Force Throw
-- Force Wall
+**Force Push**
+The target receives a push away from the caster.
+**Force Pull**
+The target is pulled roward the caster.
+**Force Bind**
+The target is enclosed in a force field immobilizing it.
+**Force Throw**
+Target is lifted and then thrown.
 
 
-#### Journeyman
-- Force Shield
-- Force Flight
+**Force Wall**
+A rigid sheet of force is created, acting as a wall.
+**Force Shield**
+A rigid dome of force is created around the caster, defending from all sides.
 
-#### Expert
-- Force Lockpick
-- Force Interact
+**Force Lunge**
+The caster is launched forward.
+**Levitate**
+The caster is lifted.
+**Force Flight**
+The caster does not just levitate, but freely moves through the air.
 
+**Fine telekinesis**
+The caster can perform articulate tasks such as interacting with a holo device, writing 
+a letter, or picking a lock from a distance.
+**Force Stab**
+Force is exerted on the target in a pointed shape.
 
 # Flesh
 Extending one's soul into another's body, a mage can leverage energy and
 force magic to heal or harm their target.
 
+**Frenzy**
+The flight-or-fight response of the target is triggered.
 
-## Spells
+**Shock**
+The target's pain receptors are triggered, overwhelming them.
 
-#### Novice
-- Berzerk
-- Shock
+**Clot**
+A bleeding wound is sealed.
 
+**Bleed**
+An open wound is made to bleed.
 
-#### Apprentice
-- Clot
-- Bleed
+**Mend Bone**
+A broken bone can be set and then healed in place.
 
-
-#### Journeyman
-- Heal Limb
-- Heal Burn
-
-#### Expert
-- Heal
-
+**Regenerate flesh**
+Encourages rapid growth of tissue, resulting in healing of clean flesh
+and exacerbation of infected tissue.
 
 
 # Mana
@@ -116,117 +123,68 @@ A soul drained completely of its mana will cease to live in the overworld,
 rendering its user magically-inert.
 
 
-## Spells
+**Overcharge**
+Mana builds in the soul past the normal capacity. Excess mana is lost when this runs out.
 
-#### Novice
-- Overcharge
+**Absorb Mana**
+Mana is syphoned from the open air to the caster. Effective in mana-rich areas.
 
+**Give Mana**
+Mana is syphoned from caster to target.
 
-#### Apprentice
-- Absorb Mana
+**Soul Drain**
+Extracts mana from target to caster.
 
-
-#### Journeyman
-- Give Mana
-- Soul Drain
-
-#### Expert
-- Overcast
-
+**Overcast**
+Excess mana is forced through a spell matrix during a cast, resulting in an intensified spell.
 
 
 # Mind
 Mind manipulation requires not only a fair deal of intelligence, but also a greater willpower than your target. The strong-willed are immune to the mind tricks of even the most skilled mages of lesser will.
 
-
-## Spells
-
-#### Novice
-- Detect Mind
-
-
-#### Apprentice
-- Listen
-
-
-#### Journeyman
-- Mindspeak
-- Intimidate
-- Charm
-
-#### Expert
-- Dominate
-- Confound
+**Detect Mind**
+One can vaguely sense the presence of other brains.
+**Listen**
+One can listen to the thoughts of a brain.
+**Mindspeak**
+One can whisper into a brain mind to communicate.
+**Intimidate**
+One can inflict feat upon a brain.
+**Charm**
+Can influence positive regard from target toward caster.
+**Dominate**
+Can overwhelm target with thoughts, suppressing resistance to suggestions.
+**Confound**
+Can overwhelm target with thoughts so that it cannot function normally.
 
 
 
-#Soul
+# Soul
 Soul magic extends from mana manipulation to altering living souls and the arcane fabric of the universe itself.
 
 
-## Spells
+**Detect Soul**
+The aura of a soul can be seen.
+**Bind Soul**
+Attaches a soul to a physical body.
+**Liberate Soul**
+Detaches soul from a physical body.
+**Merge Soul**
+Two or more souls become one.
+**Divide Soul**
+One soul becomes two or more.
+**Open Portal**
+A tunnel is opened between a realm and any other, including itself in a different position.
 
-#### Novice
-- Detect Soul
+# Mixed discipline
 
-
-#### Apprentice
-- Bind Soul, Liberate Soul
-
-
-#### Journeyman
-- Merge Soul
-- Divide Soul
-
-#### Expert
-- Open Portal
-
-
-
-
-#All Spells
-
-- Absorb Heat - Convert heat energy into mana.
-- Absorb Light - Convert sunlight into mana.
-- Absorb Mana - Absorb latent mana from the air.
-- Beam - Produce a damaging light beam.
-- Berzerk - Trigger release of hormones in target to give a buff.
-- Bind Soul - Attach a soul to a physical object or living thing.
-- Bleed - Prevent a bleeding wound from clotting naturally.
-- Charm - Temporarily buff charisma.
-- Clot - Cause a wound to stop bleeding.
-- Confound - Disorientate and confuse target.
-- Detect Mind - Minds will appear visually.
-- Detect Soul - Souls will appear visually.
-- Divide Soul - Bisect a soul into two pieces.
-- Dominate - Completely control the target's mind.
-- Fireball - Launch a ball of superheated gas.
-- Flaming Touch - Scorch target with flame from hand.
-- Force Interact - Interact with objects such as switches remotely.
-- Force Lunge - Launch forward.
-- Force Pull - Tug target towards user.
-- Force Push - Apply sudden force away from user.
-- Force Shield - Surround target with dome of force wall.
-- Force Stab - Apply sudden, sharp force to target.
-- Force Throw - Launch held item with great force.
-- Force Wall - Project wall of force in front of user.
-- Frost Touch - Harm target with cold touch.
-- Give Mana - Supply target with mana.
-- Glow - Produce light source.
-- Heal - Regrow target's tissue.
-- Heal Burn - Regrow target's burnt skin.
-- Heal Limb - Set bone/reset limb condition.
-- Intimidate - Causes target to panic.
-- Levitate - Allow self to walk over gaps.
-- Liberate Soul - Detatch soul from physical object.
-- Listen - Listen to thoughts of target.
-- Merge Soul - Combine two souls.
-- Mindspeak - Communicate telepathically with target.
-- Open Portal - Create gate between realms.
-- Overcast - Cast a spell at double its magnitude.
-- Overcharge - Buff max mana.
-- Shock - Cause target to go into shock.
-- Soul Drain - Drain the mana from a soul.
-- Tinder - Ignite flammable material or boil water.
-
-
+**ice tool**
+Caster freezes water into a molded packed ice. Can make any small, or larger object, including a brick.
+**condense vapors**
+Caster condenses and cools water vapor from the air to form water droplets.
+**smelt**
+Caster heats an ore until it liquifies, then separates the components by weight into an ingot and slag pile.
+**fireball**
+A ball of superheated gas is contained within a pressurized sphere that is thrown at a target. It explodes when released, usually on contact.
+**graft**
+A non-flesh item is imbedded in flesh and growth around the item incorporates it as part of the body.

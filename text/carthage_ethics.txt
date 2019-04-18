@@ -24,14 +24,38 @@ The naive prescribe stability via a careful balance of altruism and self interes
 pursuit of a clear conscience. One can give a beggar a coin or meal and feel satisfied they've genuinely helped. They won't follow the pathetic creature to learn that
 it receives most of its meals this way. Thus a beggar is a parasite that only consumes. Of the gifts you can give a beggar, a paying job is the most kind. For a beggar
 that can clothe, house, and feed himself is hardly a beggar anymore. Cutting parasites off from ill-gotten gains is the very nature of stability, as there is nothing
-more unsustainable than the free lunch. As for groth, consider the beggar given a loaf of bread beside the beggar given a job. In a year's time, one has paid off his
-debts and built a financial cushion. The other hungers, and begs. One can convert their own resources into capital as investment in a business or training for a trade.
+more unsustainable than the free lunch. As for growth, consider the beggar given a loaf of bread beside the beggar given a job. In a year's time, one has paid off his
+debts and built a financial cushion. The other hungers and begs. One can convert their own resources into capital as investment in a business or training for a trade.
 The other can grow more pathetic in hopes of earning more pity.
 
-There are two kinds of growth. Firstly, there is the acquisition of new resources, and secondly there is the greater utilization of existing resources. Resources that
-are completely unitilized might as well not exist. For this reason, the peasants that sneak into the king's unused forest are, in essence, discovering new land. They
+There are two kinds of growth. Firstly, there is the acquisition of new resources. Secondly, there is the greater utilization of existing resources. Resources that
+are completely unutilized might as well not exist. For this reason, the peasants that sneak into the king's unused forest are, in essence, discovering new land. They
 clear a field, pull stumps, and grow crops. They plant, harvest, and increase next year's grain yields. They are like the beggar that has gained a job, increasing value
 on a daily basis. The forest left dormant to the king, however, runs at a deficit, as the political influence to keep the forest empty is by no means free.
 
-And so let us advance the time scale of our two sets of alternatives. A beggar with a job grows to be a most-humble merchant, and the forest turns to new fields and homes. The
-beggar gifted bread still takes what he can get, and the king's forest left unsettled merely brims with untapped potential the way it had a millenium before.
+And so let us advance the time scale of our two sets of alternatives. A beggar with a job grows to be a most-humble merchant, and the forest turns to new fields and homes. 
+The beggar gifted bread still takes what he can get, and the king's forest left unsettled merely brims with untapped potential the way it had a millenium before.
+The king might then claim some right to the land, and by his law he is correct. However, carthagean scholars are concerned with the consequences of any given action.
+
+Here we have a situation of imperfect ownership of a property. The king exercises autonomy over the land in that he intentionally does nothing with it. He fails to
+prevent the peasants from moving onto it by ignorance. The peasants that live on the land exercise their own autonomy over the land by developing it. They cannot,
+however, prevent the king from expelling them by anything aside from the accident of his ignorance. This leads us to the heart of the gnarled, knotted root of our
+moral dilemma as Carthageans looking onto the world. Two absolutist positions arise.
+
+The first school sees the violation of the king's legal property rights as a crime. Wealth born from crime is thus tainted wealth, and so this tainted wealth
+taints the properties of ownership the peasants have over the village they created. The king is right to expell them in this case, and is entitled to some or
+all of the wrongly accrued wealth. The damage the peasants have done is damage to the legal foundation of property rights that not only give us motive to
+acquire wealth that we know will be protected, but offers economic stability by preventing sudden violations of autonomy in shifting property. 
+
+The second school sees a fallow forest that profits no party converted to a village that generates trade for its neighbors. Even as this village dodges
+taxes to the king, it builds the economy of its neighbors, which in turn provide more taxes than otherwise. After being discovered, the king gains most 
+by taxing the village instead of destroying it. If the king wishes to vacate the forest, then he must do so on the terms of the forest's functional 
+owners who have maintained and grown the value of the property. The king is forced to think long and hard about the land he arbitrarily claims for 
+himself, either dedicating more troops to each vacant property, or merely allowing the land to become common when occupied. If the two were to
+come to arms against one another over the property, they would have equal rights in the fight. The king has legitimate original ownership of the land,
+whilst the peasants have built up ownership of the derived value of the land. The peasants steal the land when they stay, and the king steals the
+value created when he kicks them out. When both parties are in the wrong, the consequences must be the root.
+
+As you may have figured, the king with guarded vacant forests will spend his troops guarding those forests. The king who spends those same troops collecting 
+taxes from forest villages will have enough resources left over to invade that first kingdom and occupy it. Whether right or wrong, fluid property rights
+are beneficial to all involved.

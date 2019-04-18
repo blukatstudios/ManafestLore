@@ -119,12 +119,11 @@ of circuits, such a device can only talk.
 Learning that mana flows through soul metal, logical circuits were designed in order to create 
 devices of incredible complexity.
 
-### Phylactory Suit
-A mana cell with arms, legs, and a holographic face is the life extension the wealthy are willing
-to pay for. Rather than living as an appliance, souls in phylactory suits can participate physically
-in the economy. The bodies range per wearer, and can host an impressive variety of chassis and
-attachments. Some phylactory suits merely levitate. These are known as phylactory drones, and
-are in wide use for both surveilance, making deliveries, and providing navigational services.
+### Automata
+Souls trapped in bodies that they can control, Without the soul, the body is referred to as
+a phylactory suit. The bodies range in size, shape, and function dramatically depending on
+the purpose for which it was built. Many wealthy postpone death by becoming automata as they
+grow old.
 
 ### Communicators, Holocenters
 Offering audio and holographic projections as both a viewing media and user interface, those

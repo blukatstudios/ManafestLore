@@ -1,0 +1,59 @@
+Please insert 50 credits to proceed.
+
+Hello, and welcome to opulence network.
+Would you like to use our [C]atalog?
+Perhaps you'd like to [S]earch for something?
+Would you like to read the [N]ews?
+If you are done, you can [Q]uit.
+visitor@carthage$ c
+
+Here are today's offerings:
+[1] I love lucilia
+[2] The Arena with Hasdrubal
+[3] Cooking Abroad
+[B]ack to main menu
+visitor@carthage$ b
+
+[C]atalog
+[S]earch
+[N]ews
+[Q]uit
+visitor@carthage$ n
+
+[1] Constantinople man trampled by giraffe. In critical condition.
+[2] Could you be saving 15% on your citizenhip fees? Find out now!
+[3] Survivors found in Europan ruins. Claim nuclear weapons intact.
+[4] Daily horoscope. (Leos, don't miss this issue!)
+[5] Here's why scientists are saying contract mages aren't worth the hassle.
+[6] Latest holovid player banned on three continents.
+visitor@carthage$ 1
+
+Portal nexus was closed for thirty seven minutes today after a technician
+left the door to a mobile animal pen open and unsupervised for over an hour.
+The giraffes inside quickly escaped and became spooked as panick broke out
+in the terminal.
+
+Ping Lu, who was taking his first ride on a nexus train told reporters. 
+"We couldn't believe what we were seeing. The giraffes came stampeding
+through the portal and we all ran for shelter. One man didn't make it."
+
+The native Constantinople man who is yet to be identified, was trampled
+by multiple stampeding giraffes. He has since been taken to the local
+Life facility and no further details have been reported.
+
+The technician responsible for this giraffe gaffe has been found and
+sentenced to one season of The Arena with Hasdrubal while wearing a 
+giraffe costume. Don't miss Season 11 early next year, where we will
+find out how he fares.
+[B]ack
+visitor@carthage$ b
+
+[c]atalog
+[S]earch
+[N]ews
+[Q]uit
+visitor@carthage$ q
+
+Thank you and come again.
+
+Please insert 50 credits to proceed. 

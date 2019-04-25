@@ -40,3 +40,6 @@ Goods:
 
 ### Restoration
 The only Europans that survived the divine cataclysm did so due to their residence of Europan defense cubes. The appearance of beasts in the mines below the cubes combined with a dwindling food source forced all but Cube East from being evacuated. Consequently, Cube East's population seek to recover technology from the neighboring cubes, restore trade with Carthage, and rebuild. The arrival of beasts, the establishment of New Sparta, and the radioactivity plaguing the region prevent its immediate completion of these goals.
+
+### Moonward Expansion
+Though unrealized, the true potential of the cubes to be used as space vessels proved interesting to Carthage and the remnants of Europa alike. Rather than leave the box they had called home, many of the Europans sought instead to raid the other cubes for scientific papers and documentation necessary to finish spacefaring preparations and bring the cube into space.

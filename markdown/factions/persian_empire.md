@@ -28,3 +28,14 @@ Goods:
     - Glass works
     - Ice
     - Media (Dreamer philosophy, art of the arcane)
+
+## Persian ambitions
+
+### Commerce
+Despite Carthage's impressive resources, reliance on arcane materials to produce magical devices created a vaccuume that professional mages fit into. Even while Persian mages offered similar capabilities to their mechanized counterparts, the stigmas from pro-Carthage propaganda make their entry into the global market an uphill battle.
+
+### Realm exploration
+Though the dreamers had vanished, rumors persisted about the existence of dreamers outside of the overworld. Teams of mages thusly invested in opening portals and exploring adjacent realms. Unable to sustain permanent portals using nuclear power, the Persian mages nonetheless seized relics from various realms and invited outsiders from as many realms as they could. 
+
+### University of Arcana
+The Persian king declared the arcane arts not only a right, but a duty. Non-mages have been offered rewards for learning these skills, schools have been created with royal funding to further the research of the arcane arts, and the development of a class of elite magic users has resulted. The king commands the best of the best to seek out arcane artifacts and beings for study in the Persian homeland. Worldwide, the persians consequently offer the best of the best of the best mortal mages capable of feats that only the few remaining divines could otherwise challenge. Rather than stamping out magic elsewhere, the Persians invite experts from around the world to come live at their University and teach anyone with a government grant or a very large up-front payment.

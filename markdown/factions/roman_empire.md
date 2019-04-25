@@ -47,6 +47,15 @@ Goods:
 
 ### Surplus population
 
-The fallout of the divine civil war left Rome without divine sources of food, wood, oil, and clean water. The angered masses were expunged from the land, starting with lower classes and moving up a caste at a time until a new equilibrium was reached. Even after the exodus, resources remain tight for individuals not in the highest classes. Worse, the expelled populations have turned to theft and mercenary work to survive. Violence between the Roman guard displaced refugees have escalated and turned all border regions into potential combat hotspots. Rations provided by the Roman government in attempt to quiet hungry thieves had the opposite effect, creating new targets for attacks that have thus increased Roman military presence.
+The fallout of the divine civil war left Rome without divine sources of food, wood, oil, and clean water. The angered masses were expunged from the land, starting with lower classes and moving up a caste at a time until a new equilibrium was reached. Even after the exodus, resources remain tight for individuals not in the highest classes. Worse, the expelled populations have turned to theft and mercenary work to survive. Violence between the Roman guard displaced refugees have escalated and turned all border regions into potential combat hotspots.
 
+#### Emigration
 
+To solve the problem of the displaced, the Romans sought to relocate destitute populations elsewhere. This worked by partnering with Carthage's portal nexus to offer each Roman citizen a free one-way ticket anywhere else in the world. The consequence, of course, was that the displace person could not return without enough money to afford a return ticket. This very effectively ridded Rome of its bitter ex-patriots and entrepeneurs.
+
+#### Grain
+Rations purchased cheaply from Carthage were distributed to the populations outside Roman walls. This was not sufficient to feed all the huddling masses, but instead gave the otherwise idle hands a hope aside from thievery. Or so the Romans thought. Ex-Roman thieves attacked aid convoys, requiring security to increase accordingly. 
+
+#### Conquest
+
+In addition to pacifying and shipping off the surplus population, Rome invested heavily in plans for securing new sources of income it could use to spread out its newfound poverty. Volunteer armies of empoverished Romans gathered to invade villages with the promise that they could become the upper class in these regions, governing it for the Roman Empire. In addition to leading the surplus to both resettle in newly conquered lands and die in combat, this moved them away from Rome while a new balance could be reached. 

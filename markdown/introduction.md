@@ -17,6 +17,7 @@ Manafest is a high fantasy science fiction universe intended for use with a vide
 The overworld's major turning point, and starting point for time is the arrival of the divines. Time thus is measured as AD(after divines) and BD(before divines).
 
 - 1.2 Million BD fire elementals arrive in the core of the overworld and appear on the surface near volcanoes. 
+- 500,000  BD dragons arrive in North America continent
 - 55  carthage discovers ice realm
 - 0AD The divines arrive in the overworld
 - 11  Gnomes created in Han Empire
@@ -24,6 +25,7 @@ The overworld's major turning point, and starting point for time is the arrival 
 - 28  Han Empire invades Xiongnu(Mongolia)
 - 30  Persian Empire invades tribal Scythia(Kazakhstan)
 - 38  Han Empire invades Wa(Japan)
+- 20  United Albion is established
 - 34  Inca and Azteca go to war
 - 48  Han Empire extends border South to annex Mayla Peninsula
 - 50  Long House Federation formed to defend against Azteca
@@ -34,9 +36,9 @@ The overworld's major turning point, and starting point for time is the arrival 
 - 224 Carthage opens portal nexus
 - 266 Divine invasion of Europa 
 - 273 Europa develops nuclear weapons
-- 274 The divine civil war starts
-- 280 The divine exodus sends all major divines out of the overworld
-- 290 Carthage recovers nuclear technology
+- 274 The divine civil war starts after Albion and Europa suffer from nuclear detonations
+- 280 The divine exodus sends the majority of divines out of the overworld
+- 290 Carthage recovers Europan nuclear technology
 - 292 Carthage settles Antarctica
 - 295 Carthage settles Luna
 - 300 Blood God begins invasion of overworld
@@ -71,7 +73,10 @@ Broken down by region, the global factions are as follows:
 **Australia**
 
 **Antarctica**
-- Carthage
+Carthage
+
+**Luna**
+Carthage
 
 ## Realms
 These are the paralel dimensions that connect with the overworld.

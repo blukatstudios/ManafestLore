@@ -3,22 +3,44 @@
 ## What is Manafest?
 Manafest is a high fantasy science fiction universe intended for use with a video game. This lore sets up substance such as factions, technologies, characters, and rules of the universe that can be used in flexible timelines decided by gameplay.
 
-## Segments of Manafest
+## Broad timeline
 
-Two segments, the prologue, and sandbox, will be discussed in these documents. 
-
-### Prologue
-The events leading up to the interactive portion of the universe can be considered a prologue. It is linear and its events can be defined in great detail. They are set in stone and cannot be altered by player action. A simple overview:
-
+### Genesis
 - In the distant future, a technological singularity is created.
 - That technological singularity converts the universe and neighboring dimensions into one massive computer.
 - The computer hosts a simulation of the solar system in a virtual world.
 - Many copies of this simulation are run, each with a different version of Mana present.
 - The life in these alternate worlds eventually use mana to connect to the first.
-- The history of Earth is changed dramatically by these connections around the year 1 BC.
+- The history of each Earth is changed dramatically by these connections around the year 1 BC.
 
-### Sandbox
-The sandbox segment of this lore that are subject to change with player intervention. Europa's aftermath is a great example of this, as the events that take place cannot even be reconciled into a discrete set of times from which a player chooses. Instead of attempting to draw these kinds of graphs and charts, elements and events are identified with a notion of where the timeline most likely will lead if uninterrupted. The sandbox sections of these markdown files will contain random tidbits uses for creative purposes.
+### Overworld history
+The overworld's major turning point, and starting point for time is the arrival of the divines. Time thus is measured as AD(after divines) and BD(before divines).
+
+- 1.2 Million BD fire elementals arrive in the core of the overworld and appear on the surface near volcanoes. 
+- 55  carthage discovers ice realm
+- 0AD The divines arrive in the overworld
+- 11  Gnomes created in Han Empire
+- 18  Han Empire invades Gojoseon(Korea)
+- 28  Han Empire invades Xiongnu(Mongolia)
+- 30  Persian Empire invades tribal Scythia(Kazakhstan)
+- 38  Han Empire invades Wa(Japan)
+- 34  Inca and Azteca go to war
+- 48  Han Empire extends border South to annex Mayla Peninsula
+- 50  Long House Federation formed to defend against Azteca
+- 80  Federated Great Kingdoms and Han Empire go to war briefly
+- 93  Demon army invades Albion
+- 106 Carthage establishes airborne trade fleet
+- 110 Europa established
+- 224 Carthage opens portal nexus
+- 266 Divine invasion of Europa 
+- 273 Europa develops nuclear weapons
+- 274 The divine civil war starts
+- 280 The divine exodus sends all major divines out of the overworld
+- 290 Carthage recovers nuclear technology
+- 292 Carthage settles Antarctica
+- 295 Carthage settles Luna
+- 300 Blood God begins invasion of overworld
+
 
 ## Factions Of The Overworld
 Broken down by region, the global factions are as follows:
@@ -32,6 +54,7 @@ Broken down by region, the global factions are as follows:
 - Inca
 
 **Europe**
+- Albion
 - Europa
 - Roman Empire
 
@@ -44,6 +67,11 @@ Broken down by region, the global factions are as follows:
 **Asia**
 - Han Empire
 - Federated Great Kingdoms
+
+**Australia**
+
+**Antarctica**
+- Carthage
 
 ## Realms
 These are the paralel dimensions that connect with the overworld.

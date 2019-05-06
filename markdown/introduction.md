@@ -18,7 +18,7 @@ The overworld's major turning point, and starting point for time is the arrival 
 
 - 1.2 Million BD fire elementals arrive in the core of the overworld and appear on the surface near volcanoes. 
 - 500,000  BD dragons arrive in North America continent
-- 55  carthage discovers ice realm
+- 55  Carthage discovers ice realm
 - 0AD The divines arrive in the overworld
 - 11  Gnomes created in Han Empire
 - 18  Han Empire invades Gojoseon(Korea)

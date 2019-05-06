@@ -131,3 +131,33 @@ What to do with this populace is a hot button item, as certain interests benefit
 ### Global Communications
 The first magicnology devices made for communication sold very well among governments, but several Carthage entities intend to expand this front to the consumer market. Opening of Fig stores in wealthy locations and [ublic Fig pay-per-use kiosks in poorer regions were the next logical steps. Following this, Fig aims to connect 10% of the overworld's population with communication devices.
 
+## Timeline
+
+### 0AD: Arrival of divines
+When the divines came, they managed to bring no serious interest in Carthage. This was a mixed blessing in that Carthage was simultaneously overlooked when divine gifts were being handed out to the formative world powers, but Carthage did not experience any violent shift in control. The already-delayed initiation of the Punic wars had been indefinitely forestalled by the presence of powerful divine forces in Rome. Carthage, deprived of opportunities for military conquest, retooled their efforts into further economic expansion past their tin and bronze monopoly. The plan for conquest via trade was formalized and put into motion.
+
+Carthage invested heavily in sending expeditions across the globe in the name of uncovering new resources and technologies that they could bring to market and monopolize.
+
+### 55:  Carthage discovers ice realm
+The accumulation of artifacts, specimen, and knowledge gathered from expeditions filled the great library of Carthage, where it was studied at length by every great mind available at the time. From Persia came the art of opening portals connecting distant points. It was under clinical experimentation that these techniques lead to the eventual discovery that these distant points did not need to be in the same realm. Many probes were made into various other realms, until eventually a portal opened not to the vaccuum of space or to the hazardous environment of a stellar mass or interior of a planet, but to the surface of a world with breathable air. This was the Ice Realm.
+
+Carthage's initial expeditions into the Ice Realm brought back little aside from ice and snow. An excavation team followed up and found under the ice and frigid soil dragon skeletons and fossils. The mysterious material's properties proved the basis for arcane technologies. Carthage had found their new monopoly, and so proudly brought it to the overworld. By all public accounts, the magic materials were recovered from the continent of Antarctica. Entire expedition parties walked through portals knowing none the wiser.
+
+### 106: Carthage establishes airborn trade fleet
+The growing industry of arcane machinery lead to a mindblowing variety of applications for a spell crystal and mana cell embedded in circuitry. The library of Carthage demonstrated the first prototype airship in 102 AD, and immediately the royal treasury commissioned the construction of more. By 106 four vessels could cross oceans, mountains, and anything in-between to distribute goods across lattitudally lines. Combined, the four vessels provided a near-daily supply of inter-continental trade. Goods were transported more reliably, and with the elimination of entire armies of middle-men traders in the regular distribution chain. Consequently, prices were reduced sharply and the entire trader's cut went to Carthage for bulk orders.
+
+The explosion of trade led to a series of sky ports along most lattitudinal lines across the globe by which an expanded trade fleet circulated goods and passengers world-wide.
+
+### 144: Carthage opens Opulence Network broadcasts to the world
+For two hours each day, Carthage switched on the Opulence Network. Through a convoluted set of relays between sky ports, Carthage could send any telepathic signals between two arcane devices in seconds. In addition to cornering a new market of communications, Carthage wrote the next chapter in the entertainmnt industry with book films, live broadcasts, and interactive telepathic plays. Businesses world-wide competed for the two-hour broadcasting slot, and book-films were delivered with abundant commercial advertisement breaks to reduce or sometimes waive production costs.
+
+### 290: Carthage recovers Europan nuclear technology
+The fall of Europa and Albion to nuclear warfare caused a moment of silence across the world. After the initial nuclear fallout settled, several Carthagean expeditions were sent to bring survivors to safety and to prevent abandoned technological assets from falling to ruin. Many expeditions were lost as a result of arcane interactions with the residual radiation from the bombs and local wildlife. Many more expeditioners were exposed to lethal doses of radiation due to inadequate knowledge of nuclear phenomena, and did not return. The expeditions that did return brought radioactive artifacts that killed their buyers.
+
+Despite a quarantine of Europa's wastes in 281, covert operations continued a search for the fabled nuclear power that the Europans had used to annihilate Moros. In 290, enough artifacts were recovered to reverse-engineer this technology and create the first crude nuclear reactors to power Carthage's network of arcane technologies.
+
+Services that had run once daily were put on a 24/7 schedule, and the portal nexus was created to provide direct connections between any skyport on the globe.
+
+### 292: Carthage settles Antarctica
+
+### 295: Carthage settles Luna

@@ -25,8 +25,8 @@ The overworld's major turning point, and starting point for time is the arrival 
 - 28  Han Empire invades Xiongnu(Mongolia)
 - 30  Persian Empire invades tribal Scythia(Kazakhstan)
 - 38  Han Empire invades Wa(Japan)
-- 20  United Albion is established
-- 34  Inca and Azteca go to war
+- 40  United Albion is established
+- 44  Inca and Azteca go to war
 - 48  Han Empire extends border South to annex Mayla Peninsula
 - 50  Long House Federation formed to defend against Azteca
 - 80  Federated Great Kingdoms and Han Empire go to war briefly

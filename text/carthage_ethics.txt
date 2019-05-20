@@ -1,7 +1,7 @@
 Some seek to own the world. Most others seek smaller things. Cities, villages, farms, or homes
 await ownership. But what does it mean to own any of these things?
  
-Perfect ownership is characterized by two properties:
+Contemporary scholars would define ownership by two principles:
 1. One exercises autonomy over that which is owned.
 2. One prevents others from doing the same.
 
@@ -56,6 +56,14 @@ come to arms against one another over the property, they would have equal rights
 whilst the peasants have built up ownership of the derived value of the land. The peasants steal the land when they stay, and the king steals the
 value created when he kicks them out. When both parties are in the wrong, the consequences must be the root.
 
-As you may have figured, the king with guarded vacant forests will spend his troops guarding those forests. The king who spends those same troops collecting 
-taxes from forest villages will have enough resources left over to invade that first kingdom and occupy it. Whether right or wrong, fluid property rights
-are beneficial to all involved.
+Let's give two adjacent kingdoms this exact same problem. King Abraham discovers his forest inhabited by peasants and grants them the land. King Bakus discovvers his forest in use and forces the peasants out, sending guards through the forest to ensure the land remains fallow. Abraham's forest village provides new farmland, lumber, and habitable land to the economy. As he collects taxes, Abraham collects more than before. King Bakus taxes the peasants that were forced out of the forest, but they struggle for their existence and provide little income. Eventually Bakus and Abraham quarrel over a personal disagreement and declare war. Abraham has more funding to procure a larger army, and to pay each soldier more compensation for his trouble. His people are well fed, and so the men going to fight are strong and of good morale. King Bakus has little funding for his army, and so to reach the same numbers as Abraham, he advertises rights to loot the enemy, then issues drafts to fill the rest of his ranks. The two armies brawl, and king Abraham's better provisioned troops move unburdened by hunger or sleeping tentless in the rain. King Bakus's men grow weaker and more tired than they already were before the war. Some grow sick and must be sent back. Despite setting out with an equal number, Abraham's army presents larger than Bakus's. When the battle starts, Abraham's men fire arrows liberally, killing and demoralizing Bakus's troops. Many of the treasure-seekers and slave soldiers of Bakus's army flee, and their main formation is routed. After beheading Bakus, Abraham surveys his new land. He divides up Bakus's fallow forest and opens it to the poor. Abraham's new territory improves economically, and his new subjects are better off after their defeat.
+
+Yes, the story provided is very simplistic. If you've got bountiful resources, tapping into them gives you a distinct advantage. Distill this down and you find a moral impotus to thoroughly make use of the resources available. If you sit on a vault of gold as a rainy day fund, it will advantage no one but yourself. Even the benefit it has to you is shadowed by the opportunity cost of investing that gold and reaping the benefits. And it is from this reasoning that Carthage arrives at the following definition of ownership:
+
+1. The state of one's exploitation of a monopoly over a particular thing.
+
+The implications merely affirm what other kings are too afraid to say aloud. The king owns his people. He would be destitute or a farmer, could he not skim his wealth from the economy. This is an evil, perhaps, but an unavoidable one. Were there to be no king, there would be no kingdom. With no kingdom, one would find no borders. Law enforcement would remain across localities, and eventually a city would grow large enough to have a mayor. This mayor would work out of his spare time, naturally, and would help manage his people out of benevolence. More than one city would gain mayors, and eventually one mayor would realize his police were stronger than the police of his neighbor. It's likely before he started the war, he would become a king by exerting authority over the people and demanding their cooperation in the war. If not before, then after the war, the volunteer army and the mayor would decide how to split up wealth from the conquered land. Anything short of the soldiers ignoring the mayor and doing as they pleased would result in a king. As such, kings are a necessary evil, and there can be no world without them.
+
+Knowing his role in civilization, the kings of Carthage have sought to be the least evil. The king limits himself to tax, at most, a matching contribution from his own funds. In practice this has converted idle palace-hoarding and a distanced hand over military conquest into something far more beneficial to society. The king's monopoly over his subjects starts and ends with his ability to turn a profit off of the economy.
+
+

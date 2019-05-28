@@ -1,197 +1,35 @@
 Table of contents
 	1 Intro
-	2 Equipment
-	3 Our tactics
-	4 The Enemy
+  2 Equipment
 
 1 Intro
 So you've been conscripted. What now?
 
-As you may have been told, the production of weapons and supplies is in vein if we
-have no soldiers to use them. The state of Europa has chosen you as one of those
-proud protectors of our land.
-
+Now it's time you learn how bad things really are, and what's at stake. Though we have
+consistently repelled the waves of monsters sent by Moros, our economy has been strained
+by the unending warfare. We've honed our weapons technology over the years, and have grown
+excedingly efficient at facing this known enemy. Each Europan fatality comes at the cost
+of one or two thousand enemy soldiers. Even still, our aggressive recruiting just isn't
+enough. You likely worked in a factory. Now your wife and kids do. 
 
 2 Equipment
 
-You have been issued a primary and secondary firearm in addition to a knife.
-While all your equipment is essential to combat effectiveness, it is these
-three that will provide you with firepower necessary to neutralize a
-numerically superior enemy. Depending on your role and the availablity of
-supplies, you have likely been issued one of the following primary firearms,
+The EU40 weapons platform is the crown jewel of our infantry weapons research. Through modular component design, it can assume the form needed to provide for each role, and repair through replacement of these modules. A soldier can, under short notice, re-configure his rifle to address changes in tactical demands. Though possible combinations of parts range in the millions, the main forms of the EU40 are noted as below.
 
-Sharpshooter Rifle (SR5)
-A bolt ation rifle feeding from a five round internal box magazine, the SR5 can sling
-lead in excess of 500 meters with a reasonable degree of accuracy depending on the indivudal rifle.
-This weapon goes heavy on the size of the projectile and the powder behind it. As such, the 
-SR5 is excellent against armored and non-humanoid targets.
+Marksman rifle
+Firing a full rifle round, this configuration traditionally involves heavier and more costly precision components designed not for mobility, but for engaging the enemy accurately and from a great distance. The primary role for a marksman armed is to pick off strategic targets. Secondarily, a marksman provides eyes on the battlefield to direct artillery and air support.
 
-A few well-placed sharpshooters can secure a large area, picking off strategic targets and
-punching through cover.
+Battle rifle
+Firing a full rifle round, this configuration puts out the greatest volume of fire, and the most firepower per shot for mobile soldiers. Frontline soldiers armed with battle rifles use it to fire through cover and armor from outside of bow and spear range. This configuration is chiefly designed for soldiers who must be more mobile than the marksman, but are tasked with bringing down larger monsters.
 
+Support rifle
+Generally propped up by a bipod to deliver an intermediate rifle round, this configuration is optimized for volume of fire. A support rifleman may work from a defensive position, or otherwise may provide suppressive fire to create opportunities for friendly advancement. The support rifle, above all else, allows one man to dispatch a hundred charging goblins from a distance.
 
-AR31 - Assault Rifle
-The AR31 is the cutting edge of infantry weapons technology. Gas powered autoloading
-feeds from an external box magazine standard with 30 rounds. Effective out to 200 yards,
-the AR31 leverages its rate of fire to reliably eliminate key targets and route charges.
-The projectile is intended for unarmored humanoid targets.
-This weapon is intended for the front line rifleman, and particularly for offense. 
+Storm rifle
+The storm rifle offers accuracy at mid range, mobility at close range, and an intermediate rifle round capable of neutralizing other infantry, the storm rifle is ideal for the frontline soldier tasked with clearing goblins out from urban environments.
 
+Personal defense rifle
+Chambering a pistol cartridge, the personal defense rifle provides a very light and compact weapon for soldiers tasked with hauling other primary equipment, operating vehicles, or otherwise fighting in close-quarters environments such as policing the interiors of fortresses.
 
-AR24 - Light Machine Gun
-The AR24 delivers heavy firepower to a single gunner, eliminating the need for a crew.
-Firing a heavy projectile, the rifle is belt fed. A well positioned gunner can not only
-route a charging enemy, but cause significant enemy casualties before they have entered
-range. The main downside to the AR24 is mobility, as it is heavy, cumbersome, and it burns
-through ammunition very quickly. Consequently, gunners are generally placed in trenches
-or fortified positions where they can utilize a cache of supplies and not need to manuever.
-
-AR35 - Submachine gun
-Stemming from the need to arm vehicle operators, the AR31 was scaled into a more compact
-carbine firing a pistol cartridge. The result is a weapon light enough to stash away for
-soliders already carrying other primary equipment such as rocket launcher tubes or radio
-equipment.
-
-PD3 - Personal Defense Pistol
-Fed by a single-stack box-magazine, the PD3 provides firepower at a concealable
-scale. This weapon provides a ranged backup for infantry deployed to the 
-frontlines. The projectiles are small enough as to be ineffective against armor
-or larger targets, and so the weapon should be used with great caution against
-non-humanoid targets.
-
-TS 2 - Tactical Shotgun
-A shotgun fed by pump action from a tube, the tactical shotgun delivers against 
-for close range and fast-moving targets. Noteably, it is used to clear trenches.
-
-Four Winds Shotgun
-Auxilery and non-combat personnel will be provided a shotgun for use. While
-the tactical shotgun is more effective, the Four Winds Shotgun is more 
-affordable on a mass scale. A single shell is sandwitched between two 
-interlocked sections of pipe. The rear section is closed off and has a firing
-pin to allow the operator to slam together the two interlocked pipe sections 
-and thereby fire the shotgun. Reloading is timely, and so some civilians have
-been known to arm themselves to carry multiple.
-
-Incindiary bomb
-Every foot soldier is given one of these. If you know you are about to die in
-the field, you are advised to destroy your equipment with this bomb to prevent
-it from falling into enemy hands.
-
-3 Our Tactics
-
-Riflemen
-Armed with our latest technology, these men are the boots on the ground that
-form the backbone of our operation. While we have many support roles, this
-is the primary force to respond to threats at any range. The same rifleman could
-be found in a trench, field, building, forest, or even firing from a transport.
-Their equipment is a double-edged sword, as capture by the enemy allows for
-a spike in enemy firepower.
-
-Pill boxes
-Gunners often sit surrounded by sandbags and cement. In these fortified
-positions they can deliver great punishment to the enemy, and at great ranges.
-In ideal circumstances we can trade bullets for dead goblins, leaving only 
-stragglers for our riflemen to clean up.
-
-Trenches
-Each soldier is issued a shovel, and is intended to put it to use digging
-trenches and tunnel networks between them. Trenches expose only a portion of 
-a soldier whilst allowing them to fire at enemies that are completely exposed
-on the no man's land directly in front where barbed wire and caltrops slow
-enemy advancement. Once compromised, a trench's tunnels must be collapsed to
-prevent goblins from swarming every connected trench.
-
-Artillery
-When the enemy is sighted, artillery will pepper the area. This not only routes
-many advances, but also slows those armies that are not shaken by the incoming
-fire.
-
-Sharpshooters
-Armed with long range rifles, the sharpshooters take out strategic targets such
-as orcs, demons, and mortar crews whilst our riflemen engage the enemy's center
-of mass.
-
-Air support
-Larger targets and fortified positions are often assaulted after a bombing
-of the area. These bombings are delivered via our smaller planes, but they
-nonetheless prove essential in both locating and destroing enemy workshops,
-camps, and factories. Occasionally planes will also parachute down supplies
-and equipment for frontline troops to use.
-
-Air insertion/extraction
-Our larger planes and experimental gravjets are used to deliver troops faster
-or further than foot travel will allow as well as to regularly supply isolated
-outposts. Only the gravjets are used for extraction, as their vertical takeoff
-and landing proves essential for the task in areas without runways. Thus far
-the enemy lacks adequate anti-air capabilities, and so the air is the safest
-way to travel.
-
-
-4 The Enemy
-
-Our superior firepower alone is insufficient when faced with the hordes the
-divines send. We owe our success to knowing where and how to hit the enemy.
-
-Orcs
-Every army has its officers, and the monsters are no different. Whilst orcs are
-relatively unintelligent, they serve to rally the goblins around them to combat.
-Deprived of this constant prodding, goblins will break rank and retreat. Be very
-careful to aim for the center of mass. Our best intel suggests orcs do not react
-to pain once they are frenzied for battle, and can only be brought down
-efficiently by damaging their central nervous system or brain.
-
-Goblin foot soldiers
-Led by orcs onto the field, foot soldiers are individually weak and 
-unremarkable. In great numbers they swarm hallways, dogpile riflemen, and then
-turn our own weapons against us. It is imperative a charging army of goblins
-is routed before it can get within spear range. Failing this, trenches have been
-emptied before.
-
-Goblin Rangers
-Following the orcs, rangers generally find cover before firing. Sometimes they
-will deliver accurate fire, and others they will fire at once, bombarding a 
-position with arrows and bullets. Most goblin rangers carry bows, but 
-occasionally some will carry rifles stolen from our ranks or crudely crafted
-from a workshop.
-
-Goblin mortars
-Afforded time by foot soldiers and rangers drawing fire, mortar crews will
-set up and begin bombarding our fortified positions, aiming for our guns. Whilst
-our sandbags and concrete can withstand seemingly infinite arrows and musket 
-balls, the mortars will cut through and collapse our structures. After a gunner
-has been brought down, goblins will often engage in a full charge in order to
-overtake the position and commandeer the location's weapons. The only saving
-grace with goblin mortars is their vast inaccuracy. If you spot a mortar crew,
-it is advised you take them out and destroy their mortars if possible.
-
-Demons
-The divines maintain intelligence using demons as scouts. The beasts know just
-enough arcane arts to cammoflauge themselves with their scenery as they move. 
-The imperfections of their magic give them away up close, but from a distance
-it is very difficult to know when you are looking directly at a chameleoned 
-demon. Though they carry the best weapons available to the divines, they rarely
-engage unless attacked. Demons have been known to sneak into buildings to
-assassinate our officers. One cannot be too careful when they see a strange
-distortion in the air.
-
-Weekly build-up phase
-It takes roughly eight days for a divine's next army of monsters to rise from
-the clay pits. It's during this time that our offensive maneuvering and 
-reinforcement of positions is crucial, as this is the lul before the storm. 
-Every factory or workshop destroyed represents rifles and bows that won't be
-used against Europan soldiers. The demons are most active in this phase, 
-scoping out targets to attack.
-
-Weekly assault phase
-Once the divines have swelled their ranks to critical mass and run their 
-officers and rangers through training, they launch attacks against our major
-installations. It's then that our defenses are put to the test and that weak
-fortifications are broken and overrun. We predictably win, but it's the cost
-that the divines are counting on. They can afford an infinite war, and they
-are hedging their bets that we cannot.
-
-Weekly clean-up phase
-After the last enemy army has been routed, we turn back on the offense and 
-hunt down the stragglers. Aircraft scout out any revealed camps and bomb them
-back to the stone age in preparation of air drops. This is when we set up 
-defenses on a new clay pit or locate a mine we were previously unaware of. 
+Scattergun
+The scattergun fits into the EU40 platform as an under-barrel attachment, which is the original purpose the weapon was mass-produced. It fires shot or a slug through a smoothe barrel, and can fire once before a reload via break action. A secondary stock for the weapon slides in place where an EU40 would otherwise attach to the scattergun, coverting it from an attachment to a standalone weapon that can cheaply arm civilians in the event a fortress wall is breached. Scatterguns frequently include an attached bayonette due to their single shot limitation.

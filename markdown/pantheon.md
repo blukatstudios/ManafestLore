@@ -15,3 +15,30 @@ Dis Pater originated from the underworld, not the divine realm. He subsists upon
 
 ## Blood God
 The blood god is the life form that comprises most of the known blood realm, and is not from the divine realm. It has powerful psychic and flesh-crafting powers that it can use to create and control armies of minions with. After Moros's death and a nuclear attack on Albion, the blood good accepted the Alpha Demons as infiltrators to later use in its invasion of the overworld.
+
+## Kartikeya
+God of war.
+
+## Lakshmi
+God of wealth.
+
+## Parvati
+Goddess of fertility, love, beauty, marriage, children, and devotion.
+
+## Brahma
+Creator god.
+
+## Vishnu
+Preserver god.
+
+## Shiva
+Destroyer god.
+
+## Agni
+Fire god.
+
+## Varuna
+Water god.
+
+## Indra
+King of Devas.

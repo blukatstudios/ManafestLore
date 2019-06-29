@@ -1,14 +1,5 @@
 # Carthage
 
-
-# Prologue
-
-Carthage grew off the monopoly of the bronze trade, an asset that provided inordinate wealth. After the arrival of the divines, Carthage sent expeditions into the Ice Realm and built massive facilities where the resulting influx of arcane materials were studied and manufactured into mana devices.
-
-Though the first sales of expensive trinkets to royalty was lucrative, it was when the divines left the overworld that the monopoly was cemented. Carthage couldn't begin to meet the demand for miracles that the divines had. Consequently, Prices were at a premium and the majority of carthage's population became involved in the mana trade, one way or another. Expeditions through Carthage-controlled portals doubled every few months, increasing in size and scale as well. Research into arcane material science rendered new applications whilst increasing the efficiency of existing ones. 
-
-
-
 ## Tech
 
 Carthage provided "magicnology", devices that operate under the principle of a mana cell, a soul caged in dragon bone, supplying mana energy to a spell crystal to cast a spell. The effect is magic that can be used by those with neither magical knowledge nor souls.
@@ -100,36 +91,6 @@ From computer, patients update the health information on their Identity profiles
 The net result of this two-way feedback model allowed pateints to vet their service providers and vice-versa. Access to adjust pricing via Identify profile allowed providers to artificially limit their market exposure, provide barriers for entry to patients that consistently gave poor feedback, and otherwise balance headaches with revenue.
 
 Offering various tiers and categories of insurance, Life was able to collect premiums directly through Identity.
-
-
-# Sandbox
-
-## Carthage exports
-
-Labor:
-    - global communications
-Goods:
-    - magicnology devices
-    - global trade/transportation
-    - nutri-corp products
-
-## Ambitions
-
-Carthage's various entitities share the very same end: acquisition of wealth and dominance of their respective market. It is the strategic positioning to arrive at this goal that creates a tug-of-war for limited resources. 
-
-### Europa
-The ruins of Europa hide many artifacts of lost tech. Whilst these artifacts perform their intended purposes, it is the knowledge derived from reverse-engineering or locating the original schematics that serve as the key to fully applying this technology. 
-
-### The Moon
-Expansion of the portal nexus has led to the discovery that the moon offers more unclaimed land and mineral resources than the remainder of the unexplored overworld. Establishment of module cubic structures allows for continual expansion of existing moon bases, unbeholden by conventional limitations of gravity on the overworld. Free from native life forms or pathogens, the moon offers a security to its real estate that cannot be matched in the overworld. One must pass through a portal to the moon in order to come or go, a bottleneck that prevents thieving as well as most military threats. At the same time, the portal network allows quick connection of resources and personnel between the moon and overworld.
-
-### Global Labor Surplus
-The swelling populations brought on by the divine golden age in Rome were immediately threatened with starvation when the divines exiled themselves. The establishment of the portal nexus led to a global equilibrium to feed these masses, but their economic state remained pitiful. Whilst one group of excess population endeavored to drive headlong onto new frontiers on the overworld, or to the moon, more remained in the packed cities. The low price of generalized labor was put to thorough use in construction, building great structures and consumer gooods at bargain prices. 
-
-What to do with this populace is a hot button item, as certain interests benefit from a cheap source of general labor whilst others benefit from increased disposable income in the hands of this population.
-
-### Global Communications
-The first magicnology devices made for communication sold very well among governments, but several Carthage entities intend to expand this front to the consumer market. Opening of Fig stores in wealthy locations and [ublic Fig pay-per-use kiosks in poorer regions were the next logical steps. Following this, Fig aims to connect 10% of the overworld's population with communication devices.
 
 ## Timeline
 

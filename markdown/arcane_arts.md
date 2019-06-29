@@ -58,10 +58,7 @@ A nearby heat source is syphoned and converted into mana.
 Heat is converted to mana at a loss, resulting in rapid onset of cold.
 
 # Force
-Force manipulation differs from energy in that it not only requires skill to
-successfully execute spells, but also the raw willpower to command the required
-mana. Though brute force is adequate for simpler spells, more complex ones 
-such as lockpicking require the exact application of small forces.
+Force manipulation differs from energy in that it not only requires skill to successfully execute spells, but also the raw willpower to command the required mana. Though brute force is adequate for simpler spells, more complex ones such as lockpicking require the exact application of small forces.
 
 
 **Force Push**
@@ -117,10 +114,7 @@ and exacerbation of infected tissue.
 
 
 # Mana
-Any mage can manipulate mana from their own soul. Mana manipulation is the 
-discipline of extending one's control to free mana and mana in other souls.
-A soul drained completely of its mana will cease to live in the overworld, 
-rendering its user magically-inert.
+Any mage can manipulate mana from their own soul. Mana manipulation is the discipline of extending one's control to free mana and mana in other souls. A soul drained completely of its mana will cease to live in the overworld, rendering its user magically-inert.
 
 
 **Overcharge**

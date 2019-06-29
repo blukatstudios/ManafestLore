@@ -58,11 +58,7 @@ Capable necromancers bind souls to human remains, forming skeletons. These creat
 Soul stone-based life forms that can use mana for their metabolic functions. They originate from the stone realm, which imploded long before humans arose on the overworld. Stone elements are spirits subsisting off of their soul-stone vessels. Aside from completely pulverizing a stone elemental's body into gravel or attacking their soul directly, there is no way to kill one of these creatures if confronted. Stone elementals often use nearby plants, mosses, and lichens as sources of mana.
 
 ## Fire Elemental
-Energy-based life forms that convert heat to mana. Fire elementals
-came to the overworld long before life emerged there, and were
-separated from their fire realm not long after. The only way
-to kill a fire elemental is to either cut them off from their
-source of energy(often fire), or directly scatter their soul.
+Energy-based life forms that convert heat to mana. Fire elementals came to the overworld long before life emerged there, and were separated from their fire realm not long after. The only way to kill a fire elemental is to either cut them off from their source of energy(often fire), or directly scatter their soul.
 
 ## Fae
 Natives to the ice realm in a time when it was covered with dense vegetation, the fae claim a special relationship with the magical fauna and flora they evolved beside. Through their previous symbiosis with the ice realm, the fae developed a biological magic not reliant upon a soul(making them immune to soul-targeted technology and attacks). The magic retained after their departure to the overworld is an instinctual mastery of healing magic that allows them to repair damaged forests and accelerate the growth of healthy ones. The fae can additionally harvest mana from a variety of living sources such as foiliage. 

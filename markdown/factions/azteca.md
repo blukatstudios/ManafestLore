@@ -17,14 +17,3 @@ Crimes were punished with sacrifice more often than not, and trials leaned on th
 For the duration of the god king's rule, the beasts were sufficiently warded off from the cities. Once the divine civil war took place, the god king was captured and brought to the divine realm, leaving a power vaccume behind. The divine magic that had created the beasts vanished, leaving only a few arcane flesh crafters to fill his shoes. This left the Aztecs in a particularly bad spot, as the god king had additionally controlled the beasts enough to prevent them from breeding. With no such control, the beasts began to create nests, lay eggs, and give live birth. Native fauna that had simply avoided the beasts soon found themselves competing with them. Aztec soldiers cleared lands adjacent to cities, but the swelling beast populations elsewhere put further pressure on non-aztec people to move into aztec cities and enjoy military protection in exchange for low wages and scarce resources.
 
 Occasionally beast hunters and trappers brought live specimen back to the cities to study and train, leading to several varieties of domesticated beasts. Riders proved the necessary ingredient to convert many deadly beasts into weapons capable of protecting the cities and their perimeters. Before long, the aztecs began breeding and selling these beasts to the global market via Carthage. The corpses of these exotic creatures often contained artificts used in the fabrication of special items and mana technlogy.
-
-# Sandbox
-
-
-## Aztec exports
-Services:
-    - Slave labor
-    - Fleshcraft
-    - Beasts
-Food:
-    - Corn

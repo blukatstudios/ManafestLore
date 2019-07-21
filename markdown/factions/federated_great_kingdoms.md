@@ -9,20 +9,3 @@ The divines that held the kingdoms practiced flesh craft regularly and made many
 The relative insignificance of non-mage humanoids fighting with unsophisticated weapons against these monsters led to the convention of allowing monster battles to determine the outcome of political strife. If a nation's monster lost, it's people would take severe casualties from trying to fight the victor. Thus warfare reduced heavily in the region, and in that time the population and economy boomed.
 
 When the divine civil war took place, the less-than-divine creations of fleshcraft were entirely ignored, leaving the federation unchanged. 
-
-# Sandbox
-
-
-## Federation exports
-Carthage trade ships flooded the Federation to flow labor and goods back and forth.
-
-Labor:
-    - The surplus population are eager to take on jobs
-    - Monster mercenaries
-    - Though far weaker than the divines, some FGK mages have learned to craft flesh in order to heal wounds or make alterations to anatomy. 
-Food:
-    - Spices - The region is replete with many exotic spices
-
-## Ambitions
-
-### 

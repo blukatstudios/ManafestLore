@@ -1,68 +1,16 @@
-The C alphabet contains 32 characters.
+As Carthage grew its trade networks and extended citizenship to an increasingly diverse
+population, encountered communications issues it had not previously known. The C language
+was constructed as a minimalist language to unite all peoples under Carthage culture.
 
-Words are broken up into bytes.
-Half of each byte is one of the 16 consonants,
-and the other half is a vowel or decorator.
+Any citizen of any first language could feasibly memorize the majority of the language's 
+255 words and symbols in a semester of night classes. Translating between two languages 
+became an issue of translating from native language A to C, then from C to language B.
+Many natives thus became translators and transcribers for their trading posts.
 
-sh (1111) is a silent consonant that is coupled with decorators to end a
-sentence and modify it. Modified sentences have different inflection and
-provide the words inside a specific context.
-
-A sentence "buy shoe" becomes an offer when spoken with request inflection.
-A respondant can then repeat the sentence, either with fulfill inflection to
-answer in the affirmative, or with final inflection to completely dismiss the request.
-
-The language is written and read top to bottom, and then left to right.
-
-Example sentences could look like this (No dictionary exists; no words exist.)
-04       (wah)
-E0 63 97 (meh fee ju)
-F9  (<=)
-(buy shoe?)
-
-04       (wah)
-E0 63 97 (meh fee ju)
-FE  (><)
-(No buy shoe)
-
-
-letters Binary  Hex Comment
-
-(16 consonants)
-w       0000    0
-r       0001    1
-t       0010    2
-y       0011    3
-p       0100    4
-d       0101    5
-f       0110    6
-g       0111    7
-h       1000    8
-j       1001    9
-k       1010    A
-z       1011    B
-b       1100    C
-n       1101    D
-m       1110    E
-sh      1111    F  Silent Decorated consonant
-
-(8 vowels)
-eh      0000    0  (sounds like 'leg')
-ey      0001    1  (sounds like 'hey')
-ee      0010    2  (sounds like 'whee')
-ih      0011    3  (sounds like 'kill')
-ah      0100    4  (sounds like 'ball')
-a       0101    5  (sounds like 'hat')
-o       0110    6  (sounds like 'hotel')
-u       0111    7  (sounds like 'foo')
-
-(8 decorators)
-                                    inflection modifier
-.       1000    8  (End statement)  (None)
-<=      1001    9  (Request)        (High pitch)
-=>      1010    A  (Fulfill)        (Low pitch)
-?       1011    B  (Question)       (pitch rise)
-!       1100    C  (Exclaim)        (High volume)
->>      1101    D  (Yield)          (Low volume)
-><      1110    E  (final)          (high to low pitch)
-->      1111    F  (Start)          (Volume drop)
+When the language reached paperwork and computers, it showed its second efficiency. 
+Given 255 possible symbols, a square footprint for each character ensured that 
+sentences took up a minimum of ink and paper. Producing stamps and presses for these
+symbols made use of the printing press far less laborious in regions lacking computer
+access. In regions with computers, each symbol was expressed as a single byte. Even with
+the language's restricted vocabulary requiring multiple general words in place of a single
+specific word, the language proved most compact.

@@ -121,6 +121,9 @@ Held aloft by gas sacks and some organic magic, these creatures use their many t
 # Europan Beasts
 Many creatures found not only a strange resistance to the radiation surrounding the ruins of Europa, but actively convert it to mana and again into calories. 
 
+## Water Bear
+Living in rivers and ponds near craters and vaguely resembling a bear with its plump figure, this six-legged creature chiefly subsists upon the radiation in the wastes. They are roughly the size of a small dog, can lay dormant in conditions with low radiation, and generally eat smaller plants and animals.
+
 ## Giant Crab
 Giant crabs range from roughly a meter in each dimension to three. Their shells contain a mixture of heavy metals that provide the radiation shielding necessary to thrive in radiation hotspots. These shells are gained by feasting upon metal objects. Though they enjoy a rare meal, giant crabs spend the majority of their lifecycle filter-feeding radiation in a sedentary fashion.
 

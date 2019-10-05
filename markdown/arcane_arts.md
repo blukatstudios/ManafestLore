@@ -1,25 +1,29 @@
 # Arcane Arts
-The arcane arts consist of several disciplines of mortal magic.
+Arcane mages posess the ability to form immaterial spell crystals with their souls.
+As such, the arcane arts span the various effects produced by these immaterial spell crystals.
 
 ## The Manum
-
-A manum is a particle that serves as the base unit of mana. Mana passes right through solid objects, a manum will collide with another manum.  
-
+The manum is the base unit of measure for magical energy. Much like English feet, its scale references an entity for comparison.
+In this case, a manum is the amount of magical energy contained within a single magical molecule. Mana is a non-material substance
+that can be converted to and from both matter and energy. The focal point of a spell crystal catalyzes these conversions and governs the
+efficiency and nature of the effect mana has on the physical world.
 
 ## The Soul
 
-A soul is a living bundle of mana. Most souls feed off the energy of a living host. Many souls are part of a symbiotic relationship in which they provide their host body with access to magic.
+Souls are the logical conclusion of evolution taking place in the underworld, where runaway mana conversion has left no matter to form other kinds of life from.
+A soul lives and breathes mana, and its metabolism demands a constant supply to prevent degrdation. Souls starved of mana long enough will wither and collapse
+into their baser ethereal elements. 
 
-Though the soul lacks a corporeal form, it is made up of distinct parts:
-
-- Gills-Converts ambient energy into mana.
-- Belly-Stores latent mana.
-- Mouth-Casts spells.
+Despite the immaterial nature of souls, they do demonstrate repeating structures to survive in the overworld. 
+Gills convert ambient energy into mana and absorb loose mana in the air, allowing them to survive.
+The belly of a soul is where it stores its reserve of mana. Lastly, the mouth of a soul is a structure that
+acts as an immaterial spell crystal to focus magical energy into spells. As such, nearly all souls are capable
+of arcane magic, though the souls of crickets and of humanoids vary both in intelligence and magical power.
 
 
 ## Disciplines
 
-Spells can generally be broken down between those that effect mana and those that effect matter. Each successive tier requires more raw power as well as more intricate patterns and precise positioning of the spell matrix in order to cast effectively. As a result, it's far more likely a magician can create flames from their hands than form and throw fireballs(using force), or heal the damage done by either.
+There are two major categories of arcane magic, magic that alters mana, and magic that alters energy and matter. To survive, all souls require the former, and to interact with the physical world all souls require the latter. It's as souls are capable of directing more mana and with greater precision that higher tiers of magic become available. It's also important to note that a novice mage may perform magic within all six disciplines to a very limited degree. A novice that can move a hankerchief with telepathy won't brag about it, however, and for all intents and purposes won't claim to be proficient in force magic. However, it's also worth noting that precision and shear volume of magic both impact how a particular discipline can be used. One master of force magic specializing in precision can shape clay or molten metal into intricate forms for both art and industry. Another master of force magic specializing in volume of magic can telekinetically lift stone slabs that would otherwise require a team of workers and equipment to move. 
 
 
 |Tiers|Matter magic|Mana Magic|

@@ -35,7 +35,6 @@ Military applications naturally followed:
 A network of portals were constructed across the overworld in each Carthage embassy with a hub of portals all leading to exits at Constantinople's center. This effectively destroyed traditional barriers that would prevent trade of exotic perishable goods, short-term labor, and receational travel. The overworld became flat when global supply met global demand. The economies initially involved exploded from the sudden surge of economic opportunities.
 
 ## Mana as currency
-
 Carthage ran on mana, and so it became the commodity for trade. The infeasibility of carrying mana created the minting of Mana credits, coins that could be redeemed for raw mana energy at mana banks. Credits came in multiple denominations and were relatively difficult to counterfeit due to the use of trace amounts of arcane materials unobtainable outside of certain Carthagean manufacturing processes. 
 
 ## The C Language
@@ -92,6 +91,9 @@ The net result of this two-way feedback model allowed pateints to vet their serv
 
 Offering various tiers and categories of insurance, Life was able to collect premiums directly through Identity.
 
+## Energy International
+Born with the mana economy, Energy International oversees the production, storage, and distribution of mana across the globe.
+
 ## Timeline
 
 ### 0AD: Arrival of divines
@@ -102,7 +104,9 @@ Carthage invested heavily in sending expeditions across the globe in the name of
 ### 55:  Carthage discovers ice realm
 The accumulation of artifacts, specimen, and knowledge gathered from expeditions filled the great library of Carthage, where it was studied at length by every great mind available at the time. From Persia came the art of opening portals connecting distant points. It was under clinical experimentation that these techniques lead to the eventual discovery that these distant points did not need to be in the same realm. Many probes were made into various other realms, until eventually a portal opened not to the vaccuum of space or to the hazardous environment of a stellar mass or interior of a planet, but to the surface of a world with breathable air. On new year's day of 55 AD, Hamid Madani was the first man to walk in the Ice Realm.
 
-Carthage's initial expeditions into the Ice Realm brought back little aside from ice and snow. An excavation team followed up and found under the ice and frigid soil dragon skeletons and fossils. The mysterious material's properties proved the basis for arcane technologies. Carthage had found their new monopoly, and so proudly brought it to the overworld. By all public accounts, the magic materials were recovered from the continent of Antarctica. Entire expedition parties walked through portals knowing none the wiser.
+Carthage's initial expeditions into the Ice Realm brought back little aside from ice and snow. An excavation team followed up and found dragon skeletons and fossils under the ice and soil. The mysterious material's properties proved the basis for many arcane technologies. Carthage had found their new monopoly, and so proudly brought it to the overworld. Nicknamed operation icebox, Carthage's government invested equally into both extracting resources from the ice realm and hiding its location. Careful use of portals allowed visitors to never see where dig sites sat in relation to the rest of the world. This eliminated public knowledge of the purported longitude and lattitude of dig sites. By all public accounts, the magic materials were recovered from the continent of Antarctica, and not an entirely different realm.
+
+Carthage's mana industry began at this juncture. 
 
 ### 106: Carthage establishes airborn trade fleet
 The growing industry of arcane machinery lead to a mindblowing variety of applications for a spell crystal and mana cell embedded in circuitry. The library of Carthage demonstrated the first prototype airship in 102 AD, and immediately the royal treasury commissioned the construction of more. By 106 four vessels could cross oceans, mountains, and anything in-between to distribute goods across lattitudally lines. Combined, the four vessels provided a near-daily supply of inter-continental trade. Goods were transported more reliably, and with the elimination of entire armies of middle-men traders in the regular distribution chain. Consequently, prices were reduced sharply and the entire trader's cut went to Carthage for bulk orders.
@@ -120,7 +124,7 @@ Despite a quarantine of Europa's wastes in 281, covert operations continued a se
 Services that had run once daily were put on a 24/7 schedule, and the portal nexus was created to provide direct connections between any skyport on the globe. Dependence upon biomass and oil to produce mana shifted from Carthage to the remainder of the world, opening new markets where Carthage had previously monopolized operations.
 
 ### 292: Carthage settles Antarctica
-The explosion of industry in Carthage eventually led to many of the wealthy demanding not only to expedition to Antarctica, but to settle the frigid land. In order to preserve the secrets of the Ice Realm, engineers reported that to fly through Antarctic storms was dangerous for air ships to access. Instead, a permanent set of portals leading to the Ice Realm was constructed. A couple palaces, and even a few larger towns were erected in "Antarctica" atop old excavation sites. The permanent portals were not only used to transfer personnel, but also thermal mass. A continual pumping of tepid and hot oils through a radiator located in the Ice Realm connected with other lines extending to the furthest reaches of the portal nexus to not only warm the Ice Realm cities, but also to cool urban homes in Carthage portal cities. This solved the problem otherwise created by arrays of heat pumps feeding exhausts into one another's intakes in crowded locations.
+The explosion of industry in Carthage eventually led to many of the wealthy demanding not only to expedition to Antarctica, but to settle the frigid land. In order to preserve the secrets of the Ice Realm, engineers insisted on sending ground vehicles through portals. Instead, a permanent set of portals leading to the Ice Realm was constructed. A couple palaces, and even a few larger towns were erected in "Antarctica" atop old excavation sites. The permanent portals were not only used to transfer personnel, but also thermal mass. A continual pumping of tepid and hot oils through a radiator located in the Ice Realm connected with other lines extending to the furthest reaches of the portal nexus to not only warm the Ice Realm cities, but also to cool urban homes in Carthage portal cities. This solved the problem otherwise created by arrays of heat pumps feeding exhausts into one another's intakes in crowded locations.
 
 ### 292: Carthage establishes satellite network
 Portal technology eventually arrived at tackling the problem of moving portals. From this development satellites orbiting the overworled were launched and kept adrift by force motors. A portal within provided an immediate point of transfer for personnel, air, and construction materials. Consequently, the space stations ballooned from nodes in the Opulence broadcasting network into weightless palaces. Force motors soon provided simulated gravity sufficient for citizens of the overworld to pass through portals seamlessly and without disorientation.
